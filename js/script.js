@@ -3,12 +3,18 @@ document.getElementById("stateSelector").addEventListener("change", function() {
     const container = document.getElementById("officialsContainer");
     container.innerHTML = ""; // Clear previous results
 
+    // Fetch the data
     fetch("data/officials.json")
-        .then(response => response.json())
+        .then(response => {
+            if (!response.ok) {
+                throw new Error("Failed to load data");
+            }
+            return response.json();
+        })
         .then(data => {
             const officials = data[state] || [];
             if (officials.length === 0) {
-                container.innerHTML = "<p>No officials found.</p>";
+                container.innerHTML = "<p>No officials found for this state.</p>";
                 return;
             }
 
