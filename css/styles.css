@@ -26,7 +26,6 @@ nav a:hover {
 nav a.current-page {
   color: #d10062 !important;
   text-decoration: underline !important;
-  font-weight: bold;
 }
 
 h1 {
