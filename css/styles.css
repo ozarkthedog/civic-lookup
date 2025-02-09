@@ -9,7 +9,7 @@ body {
 nav {
   display: flex;
   justify-content: center;
-  gap: 80px;
+  gap: 40px;
   padding: 20px;
   font-size: 16px;
 }
@@ -24,7 +24,7 @@ nav a:hover {
 }
 
 nav a.current-page {
-  color: #6d6eeb !important;
+  color: #d10062 !important;
   text-decoration: underline !important;
   font-weight: bold;
 }
@@ -42,27 +42,36 @@ h2 {
 }
 
 h2 span {
-  color: #6d6eeb;
+  color: #d10062;
   font-weight: bold;
 }
 
 select {
   font-size: 1.2rem;
   padding-top: 18px;
-  padding-right: 80px; /* Adjust space for the dropdown arrow */
+  padding-right: 80px;
   padding-left: 32px;
   padding-bottom: 18px;
   margin-top: 48px;
-  border: 2px solid #6d6eeb;
+  border: 2px solid #d10062;
   border-radius: 5px;
   cursor: pointer;
-  appearance: none; /* Remove default browser styling */
-  -webkit-appearance: none; /* For Safari */
-  -moz-appearance: none; /* For Firefox */
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
   background: white
-    url("data:image/svg+xml;charset=UTF-8,%3Csvg xmlns%3D%22http%3A//www.w3.org/2000/svg%22 width%3D%2216%22 height%3D%2216%22 fill%3D%22%236d6eeb%22 class%3D%22bi bi-chevron-down%22 viewBox%3D%220 0 16 16%22%3E%3Cpath fill-rule%3D%22evenodd%22 d%3D%22M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z%22/%3E%3C/svg%3E")
+    url("data:image/svg+xml;charset=UTF-8,%3Csvg xmlns%3D%22http%3A//www.w3.org/2000/svg%22 width%3D%2216%22 height%3D%2216%22 fill%3D%22%23D10062%22 class%3D%22bi bi-chevron-down%22 viewBox%3D%220 0 16 16%22%3E%3Cpath fill-rule%3D%22evenodd%22 d%3D%22M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z%22/%3E%3C/svg%3E")
     no-repeat right 24px center;
   background-size: 20px;
+  width: 60%;
+  max-width: 600px;
+  outline: none; /* Prevents browser focus outline */
+}
+
+/* Keeps the custom border color when focused */
+select:focus {
+  border-color: #d10062; /* Keeps the same color when active */
+  box-shadow: 0 0 5px rgba(209, 0, 98, 0.5); /* Adds a subtle glow */
 }
 
 
