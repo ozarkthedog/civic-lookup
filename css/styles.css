@@ -75,4 +75,69 @@ select:focus {
 }
 
 
+.officials-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 40px;
+}
+
+.official-card {
+    width: 300px;
+    background: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.official-img {
+    width: 80px;
+    height: 80px;
+    background: #ccc;
+    border-radius: 50%;
+    margin: 0 auto 10px;
+}
+
+.party {
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 14px;
+}
+
+.republican {
+    background: red;
+}
+
+.democrat {
+    background: blue;
+}
+
+.website-btn {
+    display: block;
+    margin: 10px 0;
+    padding: 8px 15px;
+    border: 2px solid #d10062;
+    color: #d10062;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.call-btn {
+    display: block;
+    width: 100%;
+    background: #d10062;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.social-icons img {
+    width: 24px;
+    margin: 10px 5px;
+}
 
