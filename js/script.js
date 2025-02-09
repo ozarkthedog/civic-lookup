@@ -1,53 +1,164 @@
-document.addEventListener("DOMContentLoaded", function () {
-    const stateSelector = document.getElementById("stateSelector");
-    const container = document.getElementById("officialsContainer");
+.officials-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-top: 40px;
+}
 
-    stateSelector.addEventListener("change", function () {
-        const state = this.value;
-        container.innerHTML = ""; // Clear previous results
+/* Card Styling */
+.official-card {
+    width: 466px;
+    height: 556px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 8px rgba(171, 190, 209, 0.4);
+    border-radius: 10px;
+    padding: 20px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
 
-        if (!state) return; // Prevent errors when selecting the placeholder
+/* Profile Image */
+.official-img {
+    width: 100px;
+    height: 100px;
+    background: #D9D9D9;
+    border-radius: 12px;
+    position: absolute;
+    left: 30px;
+    top: 27px;
+}
 
-        fetch("data/officials.json")
-            .then(response => {
-                if (!response.ok) {
-                    throw new Error("Failed to load data");
-                }
-                return response.json();
-            })
-            .then(data => {
-                const officials = data[state] || [];
-                if (officials.length === 0) {
-                    container.innerHTML = "<p>No officials found for this state.</p>";
-                    return;
-                }
+/* Name */
+.official-card h3 {
+    font-family: 'Roboto Flex', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    color: #000000;
+    position: absolute;
+    left: 149px;
+    top: 27px;
+    width: 290px;
+    text-align: left;
+}
 
-                officials.forEach(official => {
-                    const card = document.createElement("div");
-                    card.classList.add("official-card");
+/* Title (U.S. Senator) */
+.official-card p.title {
+    font-family: 'Roboto Flex', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #000000;
+    position: absolute;
+    left: 149px;
+    top: 58px;
+    width: 290px;
+    text-align: left;
+}
 
-                    card.innerHTML = `
-                        <div class="official-info">
-                            <div class="official-img"></div>
-                            <h3>${official.name}</h3>
-                            <p>${official.title}</p>
-                            <span class="party ${official.party.toLowerCase()}">${official.party}</span>
-                            <p><strong>In office since:</strong> ${official.inOfficeSince}</p>
-                            <p><strong>Seat up:</strong> ${official.seatUp}</p>
-                            <p><strong>Address:</strong> ${official.address}</p>
-                            <a href="${official.website}" class="website-btn">Website</a>
-                            <button class="call-btn">Call Office</button>
-                            <div class="social-icons">
-                                <a href="#"><img src="assets/instagram.svg" alt="Instagram"></a>
-                                <a href="#"><img src="assets/twitter.svg" alt="Twitter"></a>
-                                <a href="#"><img src="assets/facebook.svg" alt="Facebook"></a>
-                            </div>
-                        </div>
-                    `;
-                    container.appendChild(card);
-                });
-            })
-            .catch(error => console.error("Error loading officials:", error));
-    });
-});
+/* Party Tag */
+.party {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 28px;
+    background: #FFE5E5;
+    color: #C70000;
+    border-radius: 12px;
+    font-size: 16px;
+    font-weight: 500;
+    position: absolute;
+    left: 146px;
+    top: 99px;
+}
 
+/* Democrat Party */
+.party.democrat {
+    background: #E5ECFF;
+    color: #0033CC;
+}
+
+/* Office Info */
+.office-info {
+    position: absolute;
+    left: 31px;
+    width: 350px;
+    font-family: 'Roboto Flex', sans-serif;
+    font-size: 16px;
+}
+
+.office-info p {
+    display: flex;
+    justify-content: space-between;
+    color: #717171;
+    margin: 5px 0;
+}
+
+.office-info p span {
+    color: #000000;
+}
+
+/* Buttons */
+.website-btn {
+    width: 395px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #D10062;
+    border-radius: 12px;
+    font-size: 16px;
+    font-weight: 500;
+    color: #D10062;
+    text-decoration: none;
+    margin-top: 40px;
+    transition: background 0.2s ease-in-out, color 0.2s ease-in-out;
+}
+
+.website-btn:hover {
+    background: #D10062;
+    color: white;
+}
+
+/* Call Office Button */
+.call-btn {
+    width: 395px;
+    height: 50px;
+    background: #D10062;
+    color: white;
+    border: none;
+    border-radius: 12px;
+    font-size: 16px;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    cursor: pointer;
+    transition: background 0.2s ease-in-out;
+}
+
+.call-btn:hover {
+    background: #B80052;
+}
+
+/* Social Media Icons */
+.social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    position: absolute;
+    top: 497px;
+}
+
+.social-icons img {
+    width: 40px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.social-icons img:hover {
+    transform: scale(1.1);
+}
