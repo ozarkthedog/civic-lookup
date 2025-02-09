@@ -22,15 +22,19 @@ document.addEventListener("DOMContentLoaded", function () {
                     card.classList.add("official-card");
 
                     card.innerHTML = `
-                        <div class="official-img"></div>
-                        <h3>${official.name}</h3>
-                        <p class="title">${official.title}</p>
-                        <div class="party ${official.party.toLowerCase()}">${official.party}</div>
+                        <div class="official-header">
+                            <div class="official-img"></div>
+                            <div class="official-info">
+                                <h3>${official.name}</h3>
+                                <p class="title">${official.title}</p>
+                                <div class="party ${official.party.toLowerCase()}">${official.party}</div>
+                            </div>
+                        </div>
 
                         <div class="office-info">
                             <p><strong>In office since:</strong> <span>${official.inOfficeSince}</span></p>
                             <p><strong>Seat up:</strong> <span>${official.seatUp}</span></p>
-                            <p><strong>Address:</strong> <span>${official.address}</span></p>
+                            <p class="address"><strong>Address:</strong> <span>${official.address}</span></p>
                         </div>
 
                         <a href="${official.website}" class="website-btn">Website</a>
@@ -48,4 +52,3 @@ document.addEventListener("DOMContentLoaded", function () {
             .catch(error => console.error("Error loading officials:", error));
     });
 });
-
