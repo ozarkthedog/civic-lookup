@@ -92,8 +92,16 @@ select:focus {
     display: flex;
     flex-direction: column;
     align-items: center;
-    text-align: center;
+    text-align: left;
     position: relative;
+}
+
+/* Profile & Name Section */
+.official-header {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 10px;
 }
 
 /* Profile Image */
@@ -102,7 +110,15 @@ select:focus {
     height: 100px;
     background: #D9D9D9;
     border-radius: 12px;
-    margin-bottom: 10px;
+    flex-shrink: 0;
+    margin-right: 15px;
+}
+
+/* Name & Title Container */
+.official-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 /* Name */
@@ -111,7 +127,7 @@ select:focus {
     font-weight: 600;
     font-size: 22px;
     color: #000000;
-    margin-bottom: 5px;
+    margin: 0;
 }
 
 /* Title (U.S. Senator) */
@@ -120,7 +136,7 @@ select:focus {
     font-weight: 400;
     font-size: 16px;
     color: #000000;
-    margin-bottom: 10px;
+    margin: 5px 0;
 }
 
 /* Party Badge */
@@ -130,7 +146,7 @@ select:focus {
     border-radius: 12px;
     font-size: 14px;
     font-weight: 500;
-    margin-bottom: 15px;
+    align-self: flex-start;
 }
 
 .republican {
@@ -237,4 +253,3 @@ select:focus {
 .social-icons img:hover {
     transform: scale(1.1);
 }
-
