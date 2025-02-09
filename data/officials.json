@@ -1,0 +1,24 @@
+{
+    "LA": [
+        {
+            "name": "Leslie Alexander",
+            "title": "U.S. Senator",
+            "party": "Republican",
+            "inOfficeSince": "2016",
+            "seatUp": "2026",
+            "address": "1234 Happy St. Suite 235, Orlando, FL 123456",
+            "website": "https://example.com",
+            "phone": "123-456-7890"
+        },
+        {
+            "name": "Alexandria Ocasio Cortez",
+            "title": "U.S. Senator",
+            "party": "Democrat",
+            "inOfficeSince": "2016",
+            "seatUp": "2026",
+            "address": "1234 Happy St. Suite 235, Orlando, FL 123456",
+            "website": "https://example.com",
+            "phone": "123-456-7890"
+        }
+    ]
+}
