@@ -1,0 +1,540 @@
+STATE,NAME,PARTY,PHONE NUMBER,WEBSITE,INSTAGRAM,TWITTER,FACEBOOK,ADDRESS,PICTURE,POSITION
+WA,Maria Cantwell,Democrat,202-224-3441,https://www.cantwell.senate.gov,,SenatorCantwell,senatorcantwell,511 Hart Senate Office Building Washington DC 20510,,Senator
+MN,Amy Klobuchar,Democrat,202-224-3244,https://www.klobuchar.senate.gov,,SenAmyKlobuchar,,425 Dirksen Senate Office Building Washington DC 20510,,Senator
+VT,Bernard Sanders,Independent,202-224-5141,https://www.sanders.senate.gov,,SenSanders,senatorsanders,332 Dirksen Senate Office Building Washington DC 20510,,Senator
+RI,Sheldon Whitehouse,Democrat,202-224-2921,https://www.whitehouse.senate.gov,,SenWhitehouse,SenatorWhitehouse,530 Hart Senate Office Building Washington DC 20510,,Senator
+WY,John Barrasso,Republican,202-224-6441,https://www.barrasso.senate.gov,,SenJohnBarrasso,johnbarrasso,307 Dirksen Senate Office Building Washington DC 20510,,Senator
+MS,Roger F. Wicker,Republican,202-224-6253,https://www.wicker.senate.gov,,SenatorWicker,SenatorWicker,425 Russell Senate Office Building Washington DC 20510,,Senator
+ME,Susan M. Collins,Republican,202-224-2523,https://www.collins.senate.gov,,SenatorCollins,susancollins,413 Dirksen Senate Office Building Washington DC 20510,,Senator
+TX,John Cornyn,Republican,202-224-2934,https://www.cornyn.senate.gov,,JohnCornyn,sen.johncornyn,517 Hart Senate Office Building Washington DC 20510,,Senator
+IL,Richard J. Durbin,Democrat,202-224-2152,https://www.durbin.senate.gov,,SenatorDurbin,SenatorDurbin,711 Hart Senate Office Building Washington DC 20510,,Senator
+SC,Lindsey Graham,Republican,202-224-5972,https://www.lgraham.senate.gov/public,,GrahamBlog,USSenatorLindseyGraham,211 Russell Senate Office Building Washington DC 20510,,Senator
+KY,Mitch McConnell,Republican,202-224-2541,https://www.mcconnell.senate.gov,,McConnellPress,mitchmcconnell,317 Russell Senate Office Building Washington DC 20510,,Senator
+OR,Jeff Merkley,Democrat,202-224-3753,https://www.merkley.senate.gov,,SenJeffMerkley,jeffmerkley,531 Hart Senate Office Building Washington DC 20510,,Senator
+RI,Jack Reed,Democrat,202-224-4642,https://www.reed.senate.gov,,SenJackReed,SenJackReed,728 Hart Senate Office Building Washington DC 20510,,Senator
+ID,James E. Risch,Republican,202-224-2752,https://www.risch.senate.gov,,SenatorRisch,senatorjimrisch,483 Russell Senate Office Building Washington DC 20510,,Senator
+NH,Jeanne Shaheen,Democrat,202-224-2841,https://www.shaheen.senate.gov,,SenatorShaheen,SenatorShaheen,506 Hart Senate Office Building Washington DC 20510,,Senator
+VA,Mark R. Warner,Democrat,202-224-2023,https://www.warner.senate.gov,,MarkWarner,MarkRWarner,703 Hart Senate Office Building Washington DC 20510,,Senator
+NY,Kirsten E. Gillibrand,Democrat,202-224-4451,https://www.gillibrand.senate.gov,,GillibrandNY,SenKirstenGillibrand,478 Russell Senate Office Building Washington DC 20510,,Senator
+DE,Christopher A. Coons,Democrat,202-224-5042,https://www.coons.senate.gov,,ChrisCoons,senatorchriscoons,218 Russell Senate Office Building Washington DC 20510,,Senator
+AL,Robert B. Aderholt,Republican,202-225-4876,https://aderholt.house.gov,,Robert_Aderholt,RobertAderholt,272 Cannon House Office Building Washington DC 20515-0104,,Representative
+WI,Tammy Baldwin,Democrat,202-224-5653,https://www.baldwin.senate.gov,,SenatorBaldwin,senatortammybaldwin,141 Hart Senate Office Building Washington DC 20510,,Senator
+CO,Michael F. Bennet,Democrat,202-224-5852,https://www.bennet.senate.gov,,SenatorBennet,senbennetco,261 Russell Senate Office Building Washington DC 20510,,Senator
+FL,Gus M. Bilirakis,Republican,202-225-5755,https://bilirakis.house.gov,,RepGusBilirakis,GusBilirakis,2306 Rayburn House Office Building Washington DC 20515-0912,,Representative
+GA,"Sanford D. Bishop, Jr.",Democrat,202-225-3631,https://bishop.house.gov,,SanfordBishop,sanfordbishop,2407 Rayburn House Office Building Washington DC 20515-1002,,Representative
+TN,Marsha Blackburn,Republican,202-224-3344,https://www.blackburn.senate.gov,,MarshaBlackburn,marshablackburn,357 Dirksen Senate Office Building Washington DC 20510,,Senator
+CT,Richard Blumenthal,Democrat,202-224-2823,https://www.blumenthal.senate.gov,,SenBlumenthal,SenBlumenthal,503 Hart Senate Office Building Washington DC 20510,,Senator
+AR,John Boozman,Republican,202-224-4843,https://www.boozman.senate.gov/public,,JohnBoozman,JohnBoozman,555 Dirksen Senate Office Building Washington DC 20510,,Senator
+FL,Vern Buchanan,Republican,202-225-5015,https://buchanan.house.gov,,VernBuchanan,CongressmanBuchanan,2409 Rayburn House Office Building Washington DC 20515-0916,,Representative
+CA,Ken Calvert,Republican,202-225-1986,https://calvert.house.gov,,KenCalvert,70063393423,2205 Rayburn House Office Building Washington DC 20515-0541,,Representative
+WV,Shelley Moore Capito,Republican,202-224-6472,https://www.capito.senate.gov,,SenCapito,senshelley,170 Russell Senate Office Building Washington DC 20510,,Senator
+IN,André Carson,Democrat,202-225-4011,https://carson.house.gov,,RepAndreCarson,CongressmanAndreCarson,2135 Rayburn House Office Building Washington DC 20515-1407,,Representative
+TX,John R. Carter,Republican,202-225-3864,https://carter.house.gov,,JudgeCarter,judgecarter,2208 Rayburn House Office Building Washington DC 20515-4331,,Representative
+LA,Bill Cassidy,Republican,202-224-5824,https://www.cassidy.senate.gov,,SenBillCassidy,,455 Dirksen Senate Office Building Washington DC 20510,,Senator
+FL,Kathy Castor,Democrat,202-225-3376,https://castor.house.gov,,USRepKCastor,USRepKathyCastor,2188 Rayburn House Office Building Washington DC 20515-0914,,Representative
+CA,Judy Chu,Democrat,202-225-5464,https://chu.house.gov,,RepJudyChu,RepJudyChu,2423 Rayburn House Office Building Washington DC 20515-0528,,Representative
+NY,Yvette D. Clarke,Democrat,202-225-6231,https://clarke.house.gov,,RepYvetteClarke,repyvettedclarke,2058 Rayburn House Office Building Washington DC 20515-3209,,Representative
+MO,Emanuel Cleaver,Democrat,202-225-4535,https://cleaver.house.gov,,RepCleaver,emanuelcleaverii,2217 Rayburn House Office Building Washington DC 20515-2505,,Representative
+SC,James E. Clyburn,Democrat,202-225-3315,https://clyburn.house.gov,,RepJamesClyburn,jameseclyburn,274 Cannon House Office Building Washington DC 20515-4006,,Representative
+TN,Steve Cohen,Democrat,202-225-3265,https://cohen.house.gov,,RepCohen,CongressmanSteveCohen,2268 Rayburn House Office Building Washington DC 20515-4209,,Representative
+OK,Tom Cole,Republican,202-225-6165,https://cole.house.gov,,TomColeOK04,TomColeOK04,2207 Rayburn House Office Building Washington DC 20515-3604,,Representative
+VA,Gerald E. Connolly,Democrat,202-225-1492,https://connolly.house.gov,,GerryConnolly,CongressmanGerryConnolly,2265 Rayburn House Office Building Washington DC 20515-4611,,Representative
+CA,Jim Costa,Democrat,202-225-3341,https://costa.house.gov,,RepJimCosta,RepJimCosta,2081 Rayburn House Office Building Washington DC 20515-0521,,Representative
+CT,Joe Courtney,Democrat,202-225-2076,https://courtney.house.gov,,RepJoeCourtney,joecourtney,2449 Rayburn House Office Building Washington DC 20515-0702,,Representative
+ID,Mike Crapo,Republican,202-224-6142,https://www.crapo.senate.gov,,MikeCrapo,mikecrapo,239 Dirksen Senate Office Building Washington DC 20510,,Senator
+AR,"Eric A. ""Rick"" Crawford",Republican,202-225-4076,https://crawford.house.gov,,RepRickCrawford,RepRickCrawford,2422 Rayburn House Office Building Washington DC 20515-0401,,Representative
+TX,Henry Cuellar,Democrat,202-225-1640,https://cuellar.house.gov,,RepCuellar,152569121550,2308 Rayburn House Office Building Washington DC 20515-4328,,Representative
+IL,Danny K. Davis,Democrat,202-225-5006,https://davis.house.gov,,RepDannyDavis,CongressmanDKDavis,2159 Rayburn House Office Building Washington DC 20515-1307,,Representative
+CO,Diana DeGette,Democrat,202-225-4431,https://degette.house.gov,,RepDianaDeGette,DianaDeGette,2111 Rayburn House Office Building Washington DC 20515-0601,,Representative
+CT,Rosa L. DeLauro,Democrat,202-225-3661,https://delauro.house.gov,,RosaDeLauro,CongresswomanRosaDeLauro,2413 Rayburn House Office Building Washington DC 20515-0703,,Representative
+TN,Scott DesJarlais,Republican,202-225-6831,https://desjarlais.house.gov,,DesJarlaisTN04,ScottDesJarlaisTN04,2304 Rayburn House Office Building Washington DC 20515-4204,,Representative
+FL,Mario Diaz-Balart,Republican,202-225-4211,https://mariodiazbalart.house.gov,,MarioDB,mdiazbalart,374 Cannon House Office Building Washington DC 20515-0926,,Representative
+TX,Lloyd Doggett,Democrat,202-225-4865,https://doggett.house.gov,,RepLloydDoggett,lloyddoggett,2307 Rayburn House Office Building Washington DC 20515-0001,,Representative
+TN,"Charles J. ""Chuck"" Fleischmann",Republican,202-225-3271,https://fleischmann.house.gov,,RepChuck,repchuck,2187 Rayburn House Office Building Washington DC 20515-4203,,Representative
+NC,Virginia Foxx,Republican,202-225-2071,https://foxx.house.gov,,VirginiaFoxx,RepVirginiaFoxx,2462 Rayburn House Office Building Washington DC 20515-3305,,Representative
+CA,John Garamendi,Democrat,202-225-1880,https://garamendi.house.gov,,RepGaramendi,repgaramendi,2428 Rayburn House Office Building Washington DC 20515-0508,,Representative
+AZ,Paul A. Gosar,Republican,202-225-2315,https://gosar.house.gov,,RepGosar,repgosar,2057 Rayburn House Office Building Washington DC 20515-0309,,Representative
+IA,Chuck Grassley,Republican,202-224-3744,https://www.grassley.senate.gov,,ChuckGrassley,grassley,135 Hart Senate Office Building Washington DC 20510,,Senator
+MO,Sam Graves,Republican,202-225-7041,https://graves.house.gov,,RepSamGraves,118514606128,1135 Longworth House Office Building Washington DC 20515-2506,,Representative
+TX,Al Green,Democrat,202-225-7508,https://algreen.house.gov,,RepAlGreen,repalgreen,2347 Rayburn House Office Building Washington DC 20515-4309,,Representative
+VA,H. Morgan Griffith,Republican,202-225-3861,https://morgangriffith.house.gov,,RepMGriffith,RepMorganGriffith,2110 Rayburn House Office Building Washington DC 20515-4609,,Representative
+AZ,Raúl M. Grijalva,Democrat,202-225-2435,https://grijalva.house.gov,,RepRaulGrijalva,Rep.Grijalva,1203 Longworth House Office Building Washington DC 20515-0307,,Representative
+KY,Brett Guthrie,Republican,202-225-3501,https://guthrie.house.gov,,RepGuthrie,CongressmanGuthrie,2161 Rayburn House Office Building Washington DC 20515-1702,,Representative
+MD,Andy Harris,Republican,202-225-5311,https://harris.house.gov,,RepAndyHarrisMD,AndyHarrisMD,1536 Longworth House Office Building Washington DC 20515-2001,,Representative
+NM,Martin Heinrich,Democrat,202-224-5521,https://www.heinrich.senate.gov,,MartinHeinrich,MartinHeinrich,709 Hart Senate Office Building Washington DC 20510,,Senator
+CT,James A. Himes,Democrat,202-225-5541,https://himes.house.gov,,,CongressmanJimHimes,2137 Rayburn House Office Building Washington DC 20515-0704,,Representative
+HI,Mazie K. Hirono,Democrat,202-224-6361,https://www.hirono.senate.gov,,MazieHirono,senatorhirono,109 Hart Senate Office Building Washington DC 20510,,Senator
+ND,John Hoeven,Republican,202-224-2551,https://www.hoeven.senate.gov,,SenJohnHoeven,SenatorJohnHoeven,338 Russell Senate Office Building Washington DC 20510,,Senator
+MD,Steny H. Hoyer,Democrat,202-225-4131,https://hoyer.house.gov,,RepStenyHoyer,WhipHoyer,1705 Longworth House Office Building Washington DC 20515-2005,,Representative
+MI,Bill Huizenga,Republican,202-225-4401,https://huizenga.house.gov,,RepHuizenga,RepHuizenga,2232 Rayburn House Office Building Washington DC 20515-2204,,Representative
+GA,"Henry C. ""Hank"" Johnson, Jr.",Democrat,202-225-1605,https://hankjohnson.house.gov,,RepHankJohnson,115356957005,2240 Rayburn House Office Building Washington DC 20515-1004,,Representative
+WI,Ron Johnson,Republican,202-224-5323,https://www.ronjohnson.senate.gov,,SenRonJohnson,senronjohnson,328 Hart Senate Office Building Washington DC 20510,,Senator
+OH,Jim Jordan,Republican,202-225-2676,https://jordan.house.gov,,Jim_Jordan,repjimjordan,2056 Rayburn House Office Building Washington DC 20515-3504,,Representative
+OH,Marcy Kaptur,Democrat,202-225-4146,https://kaptur.house.gov,,RepMarcyKaptur,RepresentativeMarcyKaptur,2314 Rayburn House Office Building Washington DC 20515-3509,,Representative
+MA,William R. Keating,Democrat,202-225-3111,https://keating.house.gov,,USRepKeating,Congressman.Keating,2372 Rayburn House Office Building Washington DC 20515-2109,,Representative
+PA,Mike Kelly,Republican,202-225-5406,https://kelly.house.gov,,MikeKellyPA,191056827594903,1707 Longworth House Office Building Washington DC 20515-3816,,Representative
+OK,James Lankford,Republican,202-224-5754,https://www.lankford.senate.gov,,SenatorLankford,SenatorLankford,316 Hart Senate Office Building Washington DC 20510,,Senator
+WA,Rick Larsen,Democrat,202-225-2605,https://larsen.house.gov,,RepRickLarsen,RepRickLarsen,2163 Rayburn House Office Building Washington DC 20515-4702,,Representative
+CT,John B. Larson,Democrat,202-225-2265,https://larson.house.gov,,RepJohnLarson,RepJohnLarson,1501 Longworth House Office Building Washington DC 20515-0701,,Representative
+OH,Robert E. Latta,Republican,202-225-6405,https://latta.house.gov,,BobLatta,boblatta,2470 Rayburn House Office Building Washington DC 20515-3505,,Representative
+UT,Mike Lee,Republican,202-224-5444,https://www.lee.senate.gov,,SenMikeLee,senatormikelee,363 Russell Senate Office Building Washington DC 20510,,Senator
+CA,Zoe Lofgren,Democrat,202-225-3072,https://lofgren.house.gov,,RepZoeLofgren,zoelofgren,1401 Longworth House Office Building Washington DC 20515-0518,,Representative
+OK,Frank D. Lucas,Republican,202-225-5565,https://lucas.house.gov,,RepFrankLucas,RepFrankLucas,2405 Rayburn House Office Building Washington DC 20515-3603,,Representative
+NM,Ben Ray Luján,Democrat,202-224-6621,https://www.lujan.senate.gov,,SenatorLujan,,498 Russell Senate Office Building Washington DC 20510,,Senator
+MA,Stephen F. Lynch,Democrat,202-225-8273,https://lynch.house.gov,,RepStephenLynch,repstephenlynch,2109 Rayburn House Office Building Washington DC 20515-2108,,Representative
+MA,Edward J. Markey,Democrat,202-224-2742,https://www.markey.senate.gov,,SenMarkey,EdJMarkey,255 Dirksen Senate Office Building Washington DC 20510,,Senator
+CA,Doris O. Matsui,Democrat,202-225-7163,https://matsui.house.gov,,DorisMatsui,doris.matsui,2206 Rayburn House Office Building Washington DC 20515-0507,,Representative
+TX,Michael T. McCaul,Republican,202-225-2401,https://mccaul.house.gov,,RepMcCaul,michaeltmccaul,2300 Rayburn House Office Building Washington DC 20515-4310,,Representative
+CA,Tom McClintock,Republican,202-225-2511,https://mcclintock.house.gov,,RepMcClintock,81125319109,2256 Rayburn House Office Building Washington DC 20515-0505,,Representative
+MN,Betty McCollum,Democrat,202-225-6631,https://mccollum.house.gov,,BettyMcCollum04,repbettymccollum,2426 Rayburn House Office Building Washington DC 20515-2304,,Representative
+MA,James P. McGovern,Democrat,202-225-6101,https://mcgovern.house.gov,,RepMcGovern,RepJimMcGovern,370 Cannon House Office Building Washington DC 20515-2102,,Representative
+NY,Gregory W. Meeks,Democrat,202-225-3461,https://meeks.house.gov,,RepGregoryMeeks,gregorymeeksny05,2310 Rayburn House Office Building Washington DC 20515-3205,,Representative
+WI,Gwen Moore,Democrat,202-225-4572,https://gwenmoore.house.gov,,RepGwenMoore,GwenSMoore,2252 Rayburn House Office Building Washington DC 20515-4904,,Representative
+KS,Jerry Moran,Republican,202-224-6521,https://www.moran.senate.gov,,JerryMoran,jerrymoran,521 Dirksen Senate Office Building Washington DC 20510,,Senator
+AK,Lisa Murkowski,Republican,202-224-6665,https://www.murkowski.senate.gov,,LisaMurkowski,SenLisaMurkowski,522 Hart Senate Office Building Washington DC 20510,,Senator
+CT,Christopher Murphy,Democrat,202-224-4041,https://www.murphy.senate.gov,,SenMurphyOffice,chrismurphyct,136 Hart Senate Office Building Washington DC 20510,,Senator
+WA,Patty Murray,Democrat,202-224-2621,https://www.murray.senate.gov,,PattyMurray,,154 Russell Senate Office Building Washington DC 20510,,Senator
+NY,Jerrold Nadler,Democrat,202-225-5635,https://nadler.house.gov,,RepJerryNadler,CongressmanNadler,2132 Rayburn House Office Building Washington DC 20515-3212,,Representative
+MA,Richard E. Neal,Democrat,202-225-5601,https://neal.house.gov,,RepRichardNeal,reprichardneal,372 Cannon House Office Building Washington DC 20515-2101,,Representative
+DC,Eleanor Holmes Norton,Democrat,202-225-8050,https://norton.house.gov,,EleanorNorton,CongresswomanNorton,2136 Rayburn House Office Building Washington DC 20515-5101,,Representative
+NJ,"Frank Pallone, Jr.",Democrat,202-225-4671,https://pallone.house.gov,,FrankPallone,repfrankpallone,2107 Rayburn House Office Building Washington DC 20515-3006,,Representative
+KY,Rand Paul,Republican,202-224-4343,https://www.paul.senate.gov,,SenRandPaul,SenatorRandPaul,295 Russell Senate Office Building Washington DC 20510,,Senator
+CA,Nancy Pelosi,Democrat,202-225-4965,https://pelosi.house.gov,,SpeakerPelosi,NancyPelosi,1236 Longworth House Office Building Washington DC 20515-0511,,Representative
+MI,Gary C. Peters,Democrat,202-224-6221,https://www.peters.senate.gov,,SenGaryPeters,SenGaryPeters,724 Hart Senate Office Building Washington DC 20510,,Senator
+ME,Chellie Pingree,Democrat,202-225-6116,https://pingree.house.gov,,ChelliePingree,ChelliePingree,2354 Rayburn House Office Building Washington DC 20515-1901,,Representative
+IL,Mike Quigley,Democrat,202-225-4061,https://quigley.house.gov,,RepMikeQuigley,repmikequigley,2083 Rayburn House Office Building Washington DC 20515-1305,,Representative
+KY,Harold Rogers,Republican,202-225-4601,https://halrogers.house.gov,,RepHalRogers,CongressmanHalRogers,2406 Rayburn House Office Building Washington DC 20515-1705,,Representative
+AL,Mike Rogers,Republican,202-225-3261,https://mikerogers.house.gov,,RepMikeRogersAL,CongressmanMikeDRogers,2469 Rayburn House Office Building Washington DC 20515-0103,,Representative
+LA,Steve Scalise,Republican,202-225-3015,https://scalise.house.gov,,SteveScalise,RepSteveScalise,266 Cannon House Office Building Washington DC 20515-1801,,Representative
+IL,Janice D. Schakowsky,Democrat,202-225-2111,https://schakowsky.house.gov,,JanSchakowsky,janschakowsky,2408 Rayburn House Office Building Washington DC 20515-1309,,Representative
+CA,Adam B. Schiff,Democrat,202-224-3841,https://www.schiff.senate.gov,,,,112 Hart Senate Office Building Washington DC 20510,,Senator
+NY,Charles E. Schumer,Democrat,202-224-6542,https://www.schumer.senate.gov,,SenSchumer,senschumer,322 Hart Senate Office Building Washington DC 20510,,Senator
+AZ,David Schweikert,Republican,202-225-2190,https://schweikert.house.gov,,RepDavid,repdavidschweikert,166 Cannon House Office Building Washington DC 20515-0301,,Representative
+GA,Austin Scott,Republican,202-225-6531,https://austinscott.house.gov,,AustinScottGA08,RepAustinScott,2185 Rayburn House Office Building Washington DC 20515-1008,,Representative
+GA,David Scott,Democrat,202-225-2939,https://davidscott.house.gov,,RepDavidScott,113303673339,468 Cannon House Office Building Washington DC 20515-1013,,Representative
+VA,"Robert C. ""Bobby"" Scott",Democrat,202-225-8351,https://bobbyscott.house.gov,,BobbyScott,RepBobbyScott,2328 Rayburn House Office Building Washington DC 20515-4603,,Representative
+SC,Tim Scott,Republican,202-224-6121,https://www.scott.senate.gov,,SenatorTimScott,SenatorTimScott,104 Hart Senate Office Building Washington DC 20510,,Senator
+AL,Terri A. Sewell,Democrat,202-225-2665,https://sewell.house.gov,,RepTerriSewell,RepSewell,1035 Longworth House Office Building Washington DC 20515-0107,,Representative
+CA,Brad Sherman,Democrat,202-225-5911,https://sherman.house.gov,,BradSherman,63158229861,2365 Rayburn House Office Building Washington DC 20515-0532,,Representative
+ID,Michael K. Simpson,Republican,202-225-5531,https://simpson.house.gov,,CongMikeSimpson,96007744606,2084 Rayburn House Office Building Washington DC 20515-1202,,Representative
+WA,Adam Smith,Democrat,202-225-8901,https://adamsmith.house.gov,,RepAdamSmith,RepAdamSmith,2264 Rayburn House Office Building Washington DC 20515-4709,,Representative
+NE,Adrian Smith,Republican,202-225-6435,https://adriansmith.house.gov,,RepAdrianSmith,,502 Cannon House Office Building Washington DC 20515-2703,,Representative
+NJ,Christopher H. Smith,Republican,202-225-3765,https://chrissmith.house.gov,,,RepChrisSmith,2373 Rayburn House Office Building Washington DC 20515-3004,,Representative
+CA,Linda T. Sánchez,Democrat,202-225-6676,https://lindasanchez.house.gov,,RepLindaSanchez,CongresswomanLindaSanchez,2309 Rayburn House Office Building Washington DC 20515-0538,,Representative
+MS,Bennie G. Thompson,Democrat,202-225-5876,https://benniethompson.house.gov,,BennieGThompson,CongressmanBennieGThompson,2466 Rayburn House Office Building Washington DC 20515-2402,,Representative
+CA,Mike Thompson,Democrat,202-225-3311,https://mikethompson.house.gov,,RepThompson,RepMikeThompson,268 Cannon House Office Building Washington DC 20515-0504,,Representative
+PA,Glenn Thompson,Republican,202-225-5121,https://thompson.house.gov,,CongressmanGT,CongressmanGT,400 Cannon House Office Building Washington DC 20515-3815,,Representative
+SD,John Thune,Republican,202-224-2321,https://www.thune.senate.gov,,SenJohnThune,,511 Dirksen Senate Office Building Washington DC 20510,,Senator
+NY,Paul Tonko,Democrat,202-225-5076,https://tonko.house.gov,,RepPaulTonko,reppaultonko,2269 Rayburn House Office Building Washington DC 20515-3220,,Representative
+OH,Michael R. Turner,Republican,202-225-6465,https://turner.house.gov,,RepMikeTurner,RepMikeTurner,2183 Rayburn House Office Building Washington DC 20515-3510,,Representative
+MD,Chris Van Hollen,Democrat,202-224-4654,https://www.vanhollen.senate.gov,,ChrisVanHollen,chrisvanhollen,730 Hart Senate Office Building Washington DC 20510,,Senator
+NY,Nydia M. Velázquez,Democrat,202-225-2361,https://velazquez.house.gov,,NydiaVelazquez,8037068318,2302 Rayburn House Office Building Washington DC 20515-3207,,Representative
+MI,Tim Walberg,Republican,202-225-6276,https://walberg.house.gov,,RepWalberg,RepWalberg,2266 Rayburn House Office Building Washington DC 20515-2205,,Representative
+FL,Debbie Wasserman Schultz,Democrat,202-225-7931,https://wassermanschultz.house.gov,,RepDWStweets,RepDWS,270 Cannon House Office Building Washington DC 20515-0925,,Representative
+CA,Maxine Waters,Democrat,202-225-2201,https://waters.house.gov,,RepMaxineWaters,MaxineWaters,2221 Rayburn House Office Building Washington DC 20515-0543,,Representative
+FL,Daniel Webster,Republican,202-225-1002,https://webster.house.gov,,RepWebster,RepWebster,2184 Rayburn House Office Building Washington DC 20515-0911,,Representative
+VT,Peter Welch,Democrat,202-224-4242,https://www.welch.senate.gov,,PeterWelch,PeterWelch,124 Russell Senate Office Building Washington DC 20510,,Senator
+SC,Joe Wilson,Republican,202-225-2452,https://joewilson.house.gov,,RepJoeWilson,JoeWilson,1436 Longworth House Office Building Washington DC 20515-4002,,Representative
+FL,Frederica S. Wilson,Democrat,202-225-4506,https://wilson.house.gov,,RepWilson,RepWilson,2080 Rayburn House Office Building Washington DC 20515-0924,,Representative
+VA,Robert J. Wittman,Republican,202-225-4261,https://wittman.house.gov,,RobWittman,RepRobWittman,2055 Rayburn House Office Building Washington DC 20515-4601,,Representative
+AR,Steve Womack,Republican,202-225-4301,https://womack.house.gov,,Rep_SteveWomack,RepSteveWomack,2412 Rayburn House Office Building Washington DC 20515-0403,,Representative
+OR,Ron Wyden,Democrat,202-224-5244,https://www.wyden.senate.gov,,RonWyden,,221 Dirksen Senate Office Building Washington DC 20510,,Senator
+IN,Todd Young,Republican,202-224-5623,https://www.young.senate.gov,,SenToddYoung,SenatorToddYoung,185 Dirksen Senate Office Building Washington DC 20510,,Senator
+NV,Mark E. Amodei,Republican,202-225-6155,https://amodei.house.gov,,MarkAmodeiNV2,MarkAmodeiNV2,104 Cannon House Office Building Washington DC 20515-2802,,Representative
+OR,Suzanne Bonamici,Democrat,202-225-0855,https://bonamici.house.gov,,RepBonamici,congresswomanbonamici,2231 Rayburn House Office Building Washington DC 20515-3701,,Representative
+WA,Suzan K. DelBene,Democrat,202-225-6311,https://delbene.house.gov,,RepDelBene,RepDelBene,2311 Rayburn House Office Building Washington DC 20515-4701,,Representative
+KY,Thomas Massie,Republican,202-225-3465,https://massie.house.gov,,RepThomasMassie,RepThomasMassie,2371 Rayburn House Office Building Washington DC 20515-1704,,Representative
+HI,Brian Schatz,Democrat,202-224-3934,https://www.schatz.senate.gov,,SenBrianSchatz,SenBrianSchatz,722 Hart Senate Office Building Washington DC 20510,,Senator
+IL,Bill Foster,Democrat,202-225-3515,https://foster.house.gov,,RepBillFoster,CongressmanBillFoster,2366 Rayburn House Office Building Washington DC 20515-1311,,Representative
+NV,Dina Titus,Democrat,202-225-5965,https://titus.house.gov,,RepDinaTitus,CongresswomanTitus,2370 Rayburn House Office Building Washington DC 20515-2801,,Representative
+AR,Tom Cotton,Republican,202-224-2353,https://www.cotton.senate.gov,,SenTomCotton,SenatorTomCotton,326 Russell Senate Office Building Washington DC 20510,,Senator
+CA,Doug LaMalfa,Republican,202-225-3076,https://lamalfa.house.gov,,RepLaMalfa,RepLaMalfa,408 Cannon House Office Building Washington DC 20515-0501,,Representative
+CA,Jared Huffman,Democrat,202-225-5161,https://huffman.house.gov,,RepHuffman,RepHuffman,2330 Rayburn House Office Building Washington DC 20515-0502,,Representative
+CA,Ami Bera,Democrat,202-225-5716,https://bera.house.gov,,RepBera,RepAmiBera,172 Cannon House Office Building Washington DC 20515-0506,,Representative
+CA,Eric Swalwell,Democrat,202-225-5065,https://swalwell.house.gov,,RepSwalwell,CongressmanEricSwalwell,174 Cannon House Office Building Washington DC 20515-0514,,Representative
+CA,Julia Brownley,Democrat,202-225-5811,https://juliabrownley.house.gov,,RepBrownley,RepJuliaBrownley,2262 Rayburn House Office Building Washington DC 20515-0526,,Representative
+CA,Raul Ruiz,Democrat,202-225-5330,https://ruiz.house.gov,,RepRaulRuizMD,CongressmanRaulRuizMD,2342 Rayburn House Office Building Washington DC 20515-0525,,Representative
+CA,Mark Takano,Democrat,202-225-2305,https://takano.house.gov,,RepMarkTakano,RepMarkTakano,2078 Rayburn House Office Building Washington DC 20515-0539,,Representative
+CA,Juan Vargas,Democrat,202-225-8045,https://vargas.house.gov,,RepJuanVargas,RepJuanVargas,2467 Rayburn House Office Building Washington DC 20515-0552,,Representative
+CA,Scott H. Peters,Democrat,202-225-0508,https://scottpeters.house.gov,,RepScottPeters,RepScottPeters,2369 Rayburn House Office Building Washington DC 20515-0550,,Representative
+FL,Lois Frankel,Democrat,202-225-9890,https://frankel.house.gov,,RepLoisFrankel,RepLoisFrankel,2305 Rayburn House Office Building Washington DC 20515-0922,,Representative
+IL,Tammy Duckworth,Democrat,202-224-2854,https://www.duckworth.senate.gov,,SenDuckworth,SenDuckworth,524 Hart Senate Office Building Washington DC 20510,,Senator
+KY,Andy Barr,Republican,202-225-4706,https://barr.house.gov,,RepAndyBarr,RepAndyBarr,2430 Rayburn House Office Building Washington DC 20515-1706,,Representative
+MA,Elizabeth Warren,Democrat,202-224-4543,https://www.warren.senate.gov,,SenWarren,senatorelizabethwarren,311 Hart Senate Office Building Washington DC 20510,,Senator
+ME,"Angus S. King, Jr.",Independent,202-224-5344,https://www.king.senate.gov,,SenAngusKing,SenatorAngusSKingJr,133 Hart Senate Office Building Washington DC 20510,,Senator
+MO,Ann Wagner,Republican,202-225-1621,https://wagner.house.gov,,RepAnnWagner,RepAnnWagner,2350 Rayburn House Office Building Washington DC 20515-2502,,Representative
+MT,Steve Daines,Republican,202-224-2651,https://www.daines.senate.gov,,SteveDaines,SteveDainesMT,320 Hart Senate Office Building Washington DC 20510,,Senator
+NC,Richard Hudson,Republican,202-225-3715,https://hudson.house.gov,,RepRichHudson,RepRichHudson,2112 Rayburn House Office Building Washington DC 20515-3309,,Representative
+ND,Kevin Cramer,Republican,202-224-2043,https://www.cramer.senate.gov,,SenKevinCramer,CongressmanKevinCramer,313 Hart Senate Office Building Washington DC 20510,,Senator
+NE,Deb Fischer,Republican,202-224-6551,https://www.fischer.senate.gov,,SenatorFischer,senatordebfischer,448 Russell Senate Office Building Washington DC 20510,,Senator
+NY,Grace Meng,Democrat,202-225-2601,https://meng.house.gov,,RepGraceMeng,repgracemeng,2468 Rayburn House Office Building Washington DC 20515-3206,,Representative
+NY,Hakeem S. Jeffries,Democrat,202-225-5936,https://jeffries.house.gov,,RepJeffries,RepHakeemJeffries,2267 Rayburn House Office Building Washington DC 20515-3208,,Representative
+OH,Joyce Beatty,Democrat,202-225-4324,https://beatty.house.gov,,RepBeatty,RepJoyceBeatty,2079 Rayburn House Office Building Washington DC 20515-3503,,Representative
+OH,David P. Joyce,Republican,202-225-5731,https://joyce.house.gov,,RepDaveJoyce,RepDaveJoyce,2065 Rayburn House Office Building Washington DC 20515-3514,,Representative
+OK,Markwayne Mullin,Republican,202-224-4721,https://www.mullin.senate.gov,,SenMullin,RepMullin,330 Hart Senate Office Building Washington DC 20510,,Senator
+PA,Scott Perry,Republican,202-225-5836,https://perry.house.gov,,RepScottPerry,repscottperry,2160 Rayburn House Office Building Washington DC 20515-3810,,Representative
+TX,Ted Cruz,Republican,202-224-5922,https://www.cruz.senate.gov,,SenTedCruz,SenatorTedCruz,167 Russell Senate Office Building Washington DC 20510,,Senator
+TX,"Randy K. Weber, Sr.",Republican,202-225-2831,https://weber.house.gov,,TXRandy14,TXRandy14,107 Cannon House Office Building Washington DC 20515-4314,,Representative
+TX,Joaquin Castro,Democrat,202-225-3236,https://castro.house.gov,,JoaquinCastrotx,326420614138023,2241 Rayburn House Office Building Washington DC 20515-4320,,Representative
+TX,Roger Williams,Republican,202-225-9896,https://williams.house.gov,,RepRWilliams,RepRogerWilliams,2336 Rayburn House Office Building Washington DC 20515-4325,,Representative
+TX,Marc A. Veasey,Democrat,202-225-9897,https://veasey.house.gov,,RepVeasey,CongressmanMarcVeasey,2186 Rayburn House Office Building Washington DC 20515-4333,,Representative
+VA,Tim Kaine,Democrat,202-224-4024,https://www.kaine.senate.gov,,,SenatorKaine,231 Russell Senate Office Building Washington DC 20510,,Senator
+WI,Mark Pocan,Democrat,202-225-2906,https://pocan.house.gov,,RepMarkPocan,repmarkpocan,1026 Longworth House Office Building Washington DC 20515-4902,,Representative
+IL,Robin L. Kelly,Democrat,202-225-0773,https://robinkelly.house.gov,,RepRobinKelly,reprobinkelly,2329 Rayburn House Office Building Washington DC 20515-1302,,Representative
+MO,Jason Smith,Republican,202-225-4404,https://jasonsmith.house.gov,,RepJasonSmith,repjasonsmith,1011 Longworth House Office Building Washington DC 20515-2508,,Representative
+NJ,Cory A. Booker,Democrat,202-224-3224,https://www.booker.senate.gov,,SenBooker,,306 Hart Senate Office Building Washington DC 20510,,Senator
+MA,Katherine M. Clark,Democrat,202-225-2836,https://katherineclark.house.gov,,RepKClark,CongresswomanClark,2368 Rayburn House Office Building Washington DC 20515-2105,,Representative
+NJ,Donald Norcross,Democrat,202-225-6501,https://norcross.house.gov,,DonaldNorcross,DonaldNorcrossNJ,2427 Rayburn House Office Building Washington DC 20515-3001,,Representative
+NC,Alma S. Adams,Democrat,202-225-1510,https://adams.house.gov,,RepAdams,CongresswomanAdams,2436 Rayburn House Office Building Washington DC 20515-3312,,Representative
+AL,Gary J. Palmer,Republican,202-225-4921,https://palmer.house.gov,,USRepGaryPalmer,CongressmanGaryPalmer,170 Cannon House Office Building Washington DC 20515-0106,,Representative
+AR,J. French Hill,Republican,202-225-2506,https://hill.house.gov,,RepFrenchHill,RepFrenchHill,1533 Longworth House Office Building Washington DC 20515-0402,,Representative
+AR,Bruce Westerman,Republican,202-225-3772,https://westerman.house.gov,,RepWesterman,RepWesterman,202 Cannon House Office Building Washington DC 20515-0404,,Representative
+AZ,Ruben Gallego,Democrat,202-224-4521,https://www.gallego.senate.gov,,RepRubenGallego,RepRubenGallego,188 Russell Senate Office Building Washington DC 20510,,Senator
+CA,Mark DeSaulnier,Democrat,202-225-2095,https://desaulnier.house.gov,,RepDeSaulnier,RepMarkDeSaulnier,2134 Rayburn House Office Building Washington DC 20515-0510,,Representative
+CA,Pete Aguilar,Democrat,202-225-3201,https://aguilar.house.gov,,RepPeteAguilar,reppeteaguilar,108 Cannon House Office Building Washington DC 20515-0533,,Representative
+CA,Ted Lieu,Democrat,202-225-3976,https://lieu.house.gov,,RepTedLieu,RepTedLieu,2454 Rayburn House Office Building Washington DC 20515-0536,,Representative
+CA,Norma J. Torres,Democrat,202-225-6161,https://torres.house.gov,,NormaJTorres,RepNormaTorres,2227 Rayburn House Office Building Washington DC 20515-0535,,Representative
+GA,"Earl L. ""Buddy"" Carter",Republican,202-225-5831,https://buddycarter.house.gov,,RepBuddyCarter,congressmanbuddycarter,2432 Rayburn House Office Building Washington DC 20515-1001,,Representative
+GA,Barry Loudermilk,Republican,202-225-2931,https://loudermilk.house.gov,,RepLoudermilk,reploudermilk,2133 Rayburn House Office Building Washington DC 20515-1011,,Representative
+GA,Rick W. Allen,Republican,202-225-2823,https://allen.house.gov,,RepRickAllen,CongressmanRickAllen,462 Cannon House Office Building Washington DC 20515-1012,,Representative
+IL,Mike Bost,Republican,202-225-5661,https://bost.house.gov,,RepBost,RepBost,352 Cannon House Office Building Washington DC 20515-1312,,Representative
+MA,Seth Moulton,Democrat,202-225-8020,https://moulton.house.gov,,RepMoulton,CongressmanSethMoulton,1126 Longworth House Office Building Washington DC 20515-2106,,Representative
+MI,John R. Moolenaar,Republican,202-225-3561,https://moolenaar.house.gov,,RepMoolenaar,RepMoolenaar,246 Cannon House Office Building Washington DC 20515-2202,,Representative
+MI,Debbie Dingell,Democrat,202-225-4071,https://debbiedingell.house.gov,,RepDebDingell,RepDebbieDingell,102 Cannon House Office Building Washington DC 20515-2206,,Representative
+MN,Tom Emmer,Republican,202-225-2331,https://emmer.house.gov,,RepTomEmmer,reptomemmer,326 Cannon House Office Building Washington DC 20515-2306,,Representative
+NC,David Rouzer,Republican,202-225-2731,https://rouzer.house.gov,,RepDavidRouzer,RepRouzer,2333 Rayburn House Office Building Washington DC 20515-3307,,Representative
+NJ,Bonnie Watson Coleman,Democrat,202-225-5801,https://watsoncoleman.house.gov,,RepBonnie,RepBonnie,168 Cannon House Office Building Washington DC 20515-3012,,Representative
+NY,Elise M. Stefanik,Republican,202-225-4611,https://stefanik.house.gov,,RepStefanik,RepEliseStefanik,2211 Rayburn House Office Building Washington DC 20515-3221,,Representative
+PA,Brendan F. Boyle,Democrat,202-225-6111,https://boyle.house.gov,,CongBoyle,CongressmanBoyle,1502 Longworth House Office Building Washington DC 20515-3802,,Representative
+TX,Brian Babin,Republican,202-225-1555,https://babin.house.gov,,RepBrianBabin,RepBrianBabin,2236 Rayburn House Office Building Washington DC 20515-4336,,Representative
+VA,"Donald S. Beyer, Jr.",Democrat,202-225-4376,https://beyer.house.gov,,RepDonBeyer,RepDonBeyer,1226 Longworth House Office Building Washington DC 20515-4608,,Representative
+VI,Stacey E. Plaskett,Democrat,202-225-1790,https://plaskett.house.gov,,StaceyPlaskett,repstaceyplaskett,2059 Rayburn House Office Building Washington DC 20515-5500,,Representative
+WA,Dan Newhouse,Republican,202-225-5816,https://newhouse.house.gov,,RepNewhouse,RepNewhouse,460 Cannon House Office Building Washington DC 20515-4704,,Representative
+WI,Glenn Grothman,Republican,202-225-2476,https://grothman.house.gov,,RepGrothman,RepGrothman,1211 Longworth House Office Building Washington DC 20515-4906,,Representative
+AS,Aumua Amata Coleman Radewagen,Republican,202-225-8577,https://radewagen.house.gov,,RepAmata,aumuaamata,2001 Rayburn House Office Building Washington DC 20515-5200,,Representative
+AK,Dan Sullivan,Republican,202-224-3004,https://www.sullivan.senate.gov,,SenDanSullivan,SenDanSullivan,302 Hart Senate Office Building Washington DC 20510,,Senator
+IA,Joni Ernst,Republican,202-224-3254,https://www.ernst.senate.gov,,SenJoniErnst,senjoniernst,260 Russell Senate Office Building Washington DC 20510,,Senator
+NC,Thom Tillis,Republican,202-224-6342,https://www.tillis.senate.gov,,SenThomTillis,SenatorThomTillis,113 Dirksen Senate Office Building Washington DC 20510,,Senator
+SD,Mike Rounds,Republican,202-224-5842,https://www.rounds.senate.gov,,SenatorRounds,SenatorMikeRounds,716 Hart Senate Office Building Washington DC 20510,,Senator
+MS,Trent Kelly,Republican,202-225-4306,https://trentkelly.house.gov,,RepTrentKelly,reptrentkelly,2243 Rayburn House Office Building Washington DC 20515-2401,,Representative
+IL,Darin LaHood,Republican,202-225-6201,https://lahood.house.gov,,RepLaHood,replahood,503 Cannon House Office Building Washington DC 20515-1316,,Representative
+OH,Warren Davidson,Republican,202-225-6205,https://davidson.house.gov,,WarrenDavidson,CongressmanWarrenDavidson,2113 Rayburn House Office Building Washington DC 20515-3508,,Representative
+KY,James Comer,Republican,202-225-3115,https://comer.house.gov,,RepJamesComer,congressmancomer,2410 Rayburn House Office Building Washington DC 20515-1701,,Representative
+PA,Dwight Evans,Democrat,202-225-4001,https://evans.house.gov,,RepDwightEvans,RepDwightEvans,1105 Longworth House Office Building Washington DC 20515-3803,,Representative
+LA,John Kennedy,Republican,202-224-4623,https://www.kennedy.senate.gov/public,,SenJohnKennedy,JohnKennedyLouisiana,437 Russell Senate Office Building Washington DC 20510,,Senator
+NH,Margaret Wood Hassan,Democrat,202-224-3324,https://www.hassan.senate.gov,,SenatorHassan,SenatorHassan,324 Hart Senate Office Building Washington DC 20510,,Senator
+NV,Catherine Cortez Masto,Democrat,202-224-3542,https://www.cortezmasto.senate.gov,,SenCortezMasto,SenatorCortezMasto,520 Hart Senate Office Building Washington DC 20510,,Senator
+IL,Bradley Scott Schneider,Democrat,202-225-4835,https://schneider.house.gov,,RepSchneider,CongressmanBradSchneider,300 Cannon House Office Building Washington DC 20515-1310,,Representative
+AZ,Andy Biggs,Republican,202-225-2635,https://biggs.house.gov,,RepAndyBiggsAZ,RepAndyBiggs,464 Cannon House Office Building Washington DC 20515-0305,,Representative
+CA,Ro Khanna,Democrat,202-225-2631,https://khanna.house.gov,,RepRoKhanna,RepRoKhanna,306 Cannon House Office Building Washington DC 20515-0517,,Representative
+CA,Jimmy Panetta,Democrat,202-225-2861,https://panetta.house.gov,,RepJimmyPanetta,RepJimmyPanetta,200 Cannon House Office Building Washington DC 20515-0519,,Representative
+CA,Salud O. Carbajal,Democrat,202-225-3601,https://carbajal.house.gov,,RepCarbajal,repsaludcarbajal,2331 Rayburn House Office Building Washington DC 20515-0524,,Representative
+CA,Nanette Diaz Barragán,Democrat,202-225-8220,https://barragan.house.gov,,RepBarragan,CongresswomanBarragan,2312 Rayburn House Office Building Washington DC 20515-0544,,Representative
+CA,J. Luis Correa,Democrat,202-225-2965,https://correa.house.gov,,RepLouCorrea,RepLouCorrea,2082 Rayburn House Office Building Washington DC 20515-0546,,Representative
+DE,Lisa Blunt Rochester,Democrat,202-224-2441,https://www.bluntrochester.senate.gov,,RepLBR,Rep.BluntRochester,B40A Dirksen Senate Office Building Washington DC 20510,,Senator
+FL,Neal P. Dunn,Republican,202-225-5235,https://dunn.house.gov,,DrNealDunnFL2,drnealdunnfl2,466 Cannon House Office Building Washington DC 20515-0902,,Representative
+FL,John H. Rutherford,Republican,202-225-2501,https://rutherford.house.gov,,RepRutherfordFL,RepRutherfordFL,1711 Longworth House Office Building Washington DC 20515-0905,,Representative
+FL,Darren Soto,Democrat,202-225-9889,https://soto.house.gov,,RepDarrenSoto,CongressmanDarrenSoto,2353 Rayburn House Office Building Washington DC 20515-0909,,Representative
+FL,Brian J. Mast,Republican,202-225-3026,https://mast.house.gov,,RepBrianMast,repbrianmast,2182 Rayburn House Office Building Washington DC 20515-0921,,Representative
+IL,Raja Krishnamoorthi,Democrat,202-225-3711,https://krishnamoorthi.house.gov,,CongressmanRaja,congressmanraja,2367 Rayburn House Office Building Washington DC 20515-1308,,Representative
+IN,Jim Banks,Republican,202-224-4814,https://www.banks.senate.gov,,RepJimBanks,RepJimBanks,B85 Russell Senate Office Building Washington DC 20510,,Senator
+KS,Roger Marshall,Republican,202-224-4774,https://www.marshall.senate.gov,,SenatorMarshall,,479A Russell Senate Office Building Washington DC 20510,,Senator
+LA,Clay Higgins,Republican,202-225-2031,https://clayhiggins.house.gov,,RepClayHiggins,CongressmanClayHiggins,572 Cannon House Office Building Washington DC 20515-1803,,Representative
+LA,Mike Johnson,Republican,202-225-2777,https://mikejohnson.house.gov,,RepMikeJohnson,RepMikeJohnson,568 Cannon House Office Building Washington DC 20515-1804,,Representative
+MD,Jamie Raskin,Democrat,202-225-5341,https://raskin.house.gov,,RepRaskin,repraskin,2242 Rayburn House Office Building Washington DC 20515-2008,,Representative
+MI,Jack Bergman,Republican,202-225-4735,https://bergman.house.gov,,RepJackBergman,RepJackBergman,566 Cannon House Office Building Washington DC 20515-2201,,Representative
+NC,Ted Budd,Republican,202-224-3154,https://www.budd.senate.gov,,RepTedBudd,RepTedBudd,304 Russell Senate Office Building Washington DC 20510,,Senator
+NE,Don Bacon,Republican,202-225-4155,https://bacon.house.gov,,RepDonBacon,RepDonBacon,2104 Rayburn House Office Building Washington DC 20515-2702,,Representative
+NJ,Josh Gottheimer,Democrat,202-225-4465,https://gottheimer.house.gov,,RepJoshG,RepJoshG,106 Cannon House Office Building Washington DC 20515-3005,,Representative
+NV,Jacky Rosen,Democrat,202-224-6244,https://www.rosen.senate.gov,,SenJackyRosen,RepJackyRosen,713 Hart Senate Office Building Washington DC 20510,,Senator
+NY,Adriano Espaillat,Democrat,202-225-4365,https://espaillat.house.gov,,RepEspaillat,RepEspaillat,2332 Rayburn House Office Building Washington DC 20515-3213,,Representative
+PA,Brian K. Fitzpatrick,Republican,202-225-4276,https://fitzpatrick.house.gov,,RepBrianFitz,repbrianfitzpatrick,271 Cannon House Office Building Washington DC 20515-3801,,Representative
+PA,Lloyd Smucker,Republican,202-225-2411,https://smucker.house.gov,,RepSmucker,RepSmucker,302 Cannon House Office Building Washington DC 20515-3811,,Representative
+TN,David Kustoff,Republican,202-225-4714,https://kustoff.house.gov,,RepDavidKustoff,RepDavidKustoff,560 Cannon House Office Building Washington DC 20515-4208,,Representative
+TX,Vicente Gonzalez,Democrat,202-225-2531,https://gonzalez.house.gov,,RepGonzalez,USCongressmanVicenteGonzalez,1201 Longworth House Office Building Washington DC 20515-4334,,Representative
+TX,Jodey C. Arrington,Republican,202-225-4005,https://arrington.house.gov,,RepArrington,JodeyArrington,1111 Longworth House Office Building Washington DC 20515-4319,,Representative
+WA,Pramila Jayapal,Democrat,202-225-3106,https://jayapal.house.gov,,RepJayapal,RepJayapal,2346 Rayburn House Office Building Washington DC 20515-4707,,Representative
+KS,Ron Estes,Republican,202-225-6216,https://estes.house.gov,,RepRonEstes,RepRonEstes,2234 Rayburn House Office Building Washington DC 20515-1604,,Representative
+SC,Ralph Norman,Republican,202-225-5501,https://norman.house.gov,,RepRalphNorman,RepRalphNorman,569 Cannon House Office Building Washington DC 20515-4005,,Representative
+CA,Jimmy Gomez,Democrat,202-225-6235,https://gomez.house.gov,,RepJimmyGomez,RepJimmyGomez,506 Cannon House Office Building Washington DC 20515-0534,,Representative
+UT,John R. Curtis,Republican,202-224-5251,https://www.curtis.senate.gov,,RepJohnCurtis,RepJohnCurtis,B11 Russell Senate Office Building Washington DC 20510,,Senator
+MN,Tina Smith,Democrat,202-224-5641,https://www.smith.senate.gov,,SenTinaSmith,USSenTinaSmith,720 Hart Senate Office Building Washington DC 20510,,Senator
+MS,Cindy Hyde-Smith,Republican,202-224-5054,https://www.hydesmith.senate.gov,,SenHydeSmith,,702 Hart Senate Office Building Washington DC 20510,,Senator
+TX,Michael Cloud,Republican,202-225-7742,https://cloud.house.gov,,RepCloudTX,,304 Cannon House Office Building Washington DC 20515-4327,,Representative
+OH,Troy Balderson,Republican,202-225-5355,https://balderson.house.gov,,RepBalderson,,2429 Rayburn House Office Building Washington DC 20515-3512,,Representative
+OK,Kevin Hern,Republican,202-225-2211,https://hern.house.gov,,repkevinhern,,171 Cannon House Office Building Washington DC 20515-3601,,Representative
+NY,Joseph D. Morelle,Democrat,202-225-3615,https://morelle.house.gov,,RepJoeMorelle,,570 Cannon House Office Building Washington DC 20515-3225,,Representative
+PA,Mary Gay Scanlon,Democrat,202-225-2011,https://scanlon.house.gov,,RepMGS,,1214 Longworth House Office Building Washington DC 20515-3805,,Representative
+HI,Ed Case,Democrat,202-225-2726,https://case.house.gov,,RepEdCase,,2210 Rayburn House Office Building Washington DC 20515-1101,,Representative
+NV,Steven Horsford,Democrat,202-225-9894,https://horsford.house.gov,,RepHorsford,,406 Cannon House Office Building Washington DC 20515-2804,,Representative
+AZ,Greg Stanton,Democrat,202-225-9888,https://stanton.house.gov,,RepGregStanton,,207 Cannon House Office Building Washington DC 20515-0304,,Representative
+CA,Josh Harder,Democrat,202-225-4540,https://harder.house.gov,,RepJoshHarder,,209 Cannon House Office Building Washington DC 20515-0509,,Representative
+CA,Mike Levin,Democrat,202-225-3906,https://levin.house.gov,,RepMikeLevin,,2352 Rayburn House Office Building Washington DC 20515-0549,,Representative
+CO,Joe Neguse,Democrat,202-225-2161,https://neguse.house.gov,,RepJoeNeguse,,2400 Rayburn House Office Building Washington DC 20515-0602,,Representative
+CO,Jason Crow,Democrat,202-225-7882,https://crow.house.gov,,RepJasonCrow,,1323 Longworth House Office Building Washington DC 20515-0606,,Representative
+CT,Jahana Hayes,Democrat,202-225-4476,https://hayes.house.gov,,RepJahanaHayes,,2049 Rayburn House Office Building Washington DC 20515-0705,,Representative
+FL,W. Gregory Steube,Republican,202-225-5792,https://steube.house.gov,,RepGregSteube,,2457 Rayburn House Office Building Washington DC 20515-0917,,Representative
+GA,Lucy McBath,Democrat,202-225-4501,https://mcbath.house.gov,,RepLucyMcBath,,2246 Rayburn House Office Building Washington DC 20515-1006,,Representative
+ID,Russ Fulcher,Republican,202-225-6611,https://fulcher.house.gov,,RepRussFulcher,,1514 Longworth House Office Building Washington DC 20515-1201,,Representative
+IL,"Jesús G. ""Chuy"" García",Democrat,202-225-8203,https://chuygarcia.house.gov,,RepChuyGarcia,,2334 Rayburn House Office Building Washington DC 20515-1304,,Representative
+IL,Sean Casten,Democrat,202-225-4561,https://casten.house.gov,,RepCasten,,2440 Rayburn House Office Building Washington DC 20515-1306,,Representative
+IL,Lauren Underwood,Democrat,202-225-2976,https://underwood.house.gov,,RepUnderwood,,2228 Rayburn House Office Building Washington DC 20515-1314,,Representative
+IN,James R. Baird,Republican,202-225-5037,https://baird.house.gov,,RepJimBaird,,2303 Rayburn House Office Building Washington DC 20515-1404,,Representative
+KS,Sharice Davids,Democrat,202-225-2865,https://davids.house.gov,,RepDavids,,2435 Rayburn House Office Building Washington DC 20515-1603,,Representative
+MA,Lori Trahan,Democrat,202-225-3411,https://trahan.house.gov,,RepLoriTrahan,,2233 Rayburn House Office Building Washington DC 20515-2103,,Representative
+MA,Ayanna Pressley,Democrat,202-225-5111,https://pressley.house.gov,,RepPressley,,402 Cannon House Office Building Washington DC 20515-2107,,Representative
+MI,Elissa Slotkin,Democrat,202-224-4822,https://www.slotkin.senate.gov,,RepSlotkin,,825B Hart Senate Office Building Washington DC 20510,,Senator
+MI,Haley M. Stevens,Democrat,202-225-8171,https://stevens.house.gov,,RepHaleyStevens,,2411 Rayburn House Office Building Washington DC 20515-2211,,Representative
+MI,Rashida Tlaib,Democrat,202-225-5126,https://tlaib.house.gov,,RepRashida,,2438 Rayburn House Office Building Washington DC 20515-2212,,Representative
+MN,Angie Craig,Democrat,202-225-2271,https://craig.house.gov,,RepAngieCraig,,2052 Rayburn House Office Building Washington DC 20515-2302,,Representative
+MN,Ilhan Omar,Democrat,202-225-4755,https://omar.house.gov,,Ilhan,,1730 Longworth House Office Building Washington DC 20515-2305,,Representative
+MN,Pete Stauber,Republican,202-225-6211,https://stauber.house.gov,,RepPeteStauber,,145 Cannon House Office Building Washington DC 20515-2308,,Representative
+MS,Michael Guest,Republican,202-225-5031,https://guest.house.gov,,RepMichaelGuest,,450 Cannon House Office Building Washington DC 20515-2403,,Representative
+NH,Chris Pappas,Democrat,202-225-5456,https://pappas.house.gov,,RepChrisPappas,,452 Cannon House Office Building Washington DC 20515-2901,,Representative
+NJ,Jefferson Van Drew,Republican,202-225-6572,https://vandrew.house.gov,,Congressman_JVD,,2447 Rayburn House Office Building Washington DC 20515-3002,,Representative
+NJ,Andy Kim,Democrat,202-224-4744,https://www.kim.senate.gov,,,,B40D Dirksen Senate Office Building Washington DC 20510,,Senator
+NJ,Mikie Sherrill,Democrat,202-225-5034,https://sherrill.house.gov,,RepSherrill,,1427 Longworth House Office Building Washington DC 20515-3011,,Representative
+NV,Susie Lee,Democrat,202-225-3252,https://susielee.house.gov,,RepSusieLee,,365 Cannon House Office Building Washington DC 20515-2803,,Representative
+NY,Alexandria Ocasio-Cortez,Democrat,202-225-3965,https://ocasio-cortez.house.gov,,RepAOC,,250 Cannon House Office Building Washington DC 20515-3214,,Representative
+PA,Madeleine Dean,Democrat,202-225-4731,https://dean.house.gov,,RepDean,,150 Cannon House Office Building Washington DC 20515-3804,,Representative
+PA,Chrissy Houlahan,Democrat,202-225-4315,https://houlahan.house.gov,,RepHoulahan,,1727 Longworth House Office Building Washington DC 20515-3806,,Representative
+PA,Daniel Meuser,Republican,202-225-6511,https://meuser.house.gov,,RepMeuser,,350 Cannon House Office Building Washington DC 20515-3809,,Representative
+PA,John Joyce,Republican,202-225-2431,https://johnjoyce.house.gov,,RepJohnJoyce,,2102 Rayburn House Office Building Washington DC 20515-3813,,Representative
+PA,Guy Reschenthaler,Republican,202-225-2065,https://reschenthaler.house.gov,,GReschenthaler,,2209 Rayburn House Office Building Washington DC 20515-3814,,Representative
+SC,William R. Timmons IV,Republican,202-225-6030,https://timmons.house.gov,,RepTimmons,,267 Cannon House Office Building Washington DC 20515-4004,,Representative
+SD,Dusty Johnson,Republican,202-225-2801,https://dustyjohnson.house.gov,,RepDustyJohnson,,1714 Longworth House Office Building Washington DC 20515-4100,,Representative
+TN,Tim Burchett,Republican,202-225-5435,https://burchett.house.gov,,RepTimBurchett,,1122 Longworth House Office Building Washington DC 20515-4202,,Representative
+TN,John W. Rose,Republican,202-225-4231,https://johnrose.house.gov,,RepJohnRose,,2238 Rayburn House Office Building Washington DC 20515-4206,,Representative
+TN,Mark E. Green,Republican,202-225-2811,https://markgreen.house.gov,,RepMarkGreen,,2446 Rayburn House Office Building Washington DC 20515-4207,,Representative
+TX,Dan Crenshaw,Republican,202-225-6565,https://crenshaw.house.gov,,RepDanCrenshaw,,248 Cannon House Office Building Washington DC 20515-4302,,Representative
+TX,Lance Gooden,Republican,202-225-3484,https://gooden.house.gov,,,,2431 Rayburn House Office Building Washington DC 20515-4305,,Representative
+TX,Lizzie Fletcher,Democrat,202-225-2571,https://fletcher.house.gov,,RepFletcher,,2004 Rayburn House Office Building Washington DC 20515-4307,,Representative
+TX,Veronica Escobar,Democrat,202-225-4831,https://escobar.house.gov,,RepEscobar,,2448 Rayburn House Office Building Washington DC 20515-4316,,Representative
+TX,Chip Roy,Republican,202-225-4236,https://roy.house.gov,,RepChipRoy,,103 Cannon House Office Building Washington DC 20515-4321,,Representative
+TX,Sylvia R. Garcia,Democrat,202-225-1688,https://sylviagarcia.house.gov,,RepSylviaGarcia,,2419 Rayburn House Office Building Washington DC 20515-4329,,Representative
+VA,Ben Cline,Republican,202-225-5431,https://cline.house.gov,,RepBenCline,,2443 Rayburn House Office Building Washington DC 20515-4606,,Representative
+WA,Kim Schrier,Democrat,202-225-7761,https://schrier.house.gov,,RepKimSchrier,,1110 Longworth House Office Building Washington DC 20515-4708,,Representative
+WI,Bryan Steil,Republican,202-225-3031,https://steil.house.gov,,RepBryanSteil,,1526 Longworth House Office Building Washington DC 20515-4901,,Representative
+WV,Carol D. Miller,Republican,202-225-3452,https://miller.house.gov,,RepCarolMiller,,465 Cannon House Office Building Washington DC 20515-4801,,Representative
+FL,Rick Scott,Republican,202-224-5274,https://www.rickscott.senate.gov,,SenRickScott,RickScottSenOffice,110 Hart Senate Office Building Washington DC 20510,,Senator
+MO,Josh Hawley,Republican,202-224-6154,https://www.hawley.senate.gov,,SenHawleyPress,,115 Russell Senate Office Building Washington DC 20510,,Senator
+ME,Jared F. Golden,Democrat,202-225-6306,https://golden.house.gov,,RepGolden,,1107 Longworth House Office Building Washington DC 20515-1902,,Representative
+NC,Gregory F. Murphy,Republican,202-225-3415,https://murphy.house.gov,,RepGregMurphy,RepGregMurphy,407 Cannon House Office Building Washington DC 20515-3303,,Representative
+MD,Kweisi Mfume,Democrat,202-225-4741,https://mfume.house.gov,,RepKweisiMfume,RepKweisiMfume,2263 Rayburn House Office Building Washington DC 20515-2007,,Representative
+WI,Thomas P. Tiffany,Republican,202-225-3365,https://tiffany.house.gov,,RepTiffany,,451 Cannon House Office Building Washington DC 20515-4907,,Representative
+AZ,Mark Kelly,Democrat,202-224-2235,https://www.kelly.senate.gov,,SenMarkKelly,SenMarkKelly,516 Hart Senate Office Building Washington DC 20510,,Senator
+WY,Cynthia M. Lummis,Republican,202-224-3424,https://www.lummis.senate.gov,,SenLummis,,127A Russell Senate Office Building Washington DC 20510,,Senator
+CA,Darrell Issa,Republican,202-225-5672,https://issa.house.gov,,repdarrellissa,,2108 Rayburn House Office Building Washington DC 20515-0548,,Representative
+TX,Pete Sessions,Republican,202-225-6105,https://sessions.house.gov,,PeteSessions,,2204 Rayburn House Office Building Washington DC 20515-4317,,Representative
+CA,David G. Valadao,Republican,202-225-4695,https://valadao.house.gov,,RepDavidValadao,,2465 Rayburn House Office Building Washington DC 20515-0522,,Representative
+AL,Tommy Tuberville,Republican,202-224-4124,https://www.tuberville.senate.gov,,SenTuberville,,455 Russell Senate Office Building Washington DC 20510,,Senator
+CO,John W. Hickenlooper,Democrat,202-224-5941,https://www.hickenlooper.senate.gov,,SenatorHick,,374 Russell Senate Office Building Washington DC 20510,,Senator
+TN,Bill Hagerty,Republican,202-224-4944,https://www.hagerty.senate.gov,,SenatorHagerty,,251 Russell Senate Office Building Washington DC 20510,,Senator
+AL,Barry Moore,Republican,202-225-2901,https://barrymoore.house.gov,,RepBarryMoore,,1511 Longworth House Office Building Washington DC 20515-0101,,Representative
+CA,Jay Obernolte,Republican,202-225-5861,https://obernolte.house.gov,,JayObernolte,,2433 Rayburn House Office Building Washington DC 20515-0523,,Representative
+CA,Young Kim,Republican,202-225-4111,https://youngkim.house.gov,,RepYoungKim,,2439 Rayburn House Office Building Washington DC 20515-0540,,Representative
+CA,Sara Jacobs,Democrat,202-225-2040,https://sarajacobs.house.gov,,RepSaraJacobs,,2348 Rayburn House Office Building Washington DC 20515-0551,,Representative
+CO,Lauren Boebert,Republican,202-225-4761,https://boebert.house.gov,,RepBoebert,,1713 Longworth House Office Building Washington DC 20515-0604,,Representative
+FL,Kat Cammack,Republican,202-225-5744,https://cammack.house.gov,,RepKatCammack,,2421 Rayburn House Office Building Washington DC 20515-0903,,Representative
+FL,Scott Franklin,Republican,202-225-1252,https://franklin.house.gov,,RepFranklin,,2301 Rayburn House Office Building Washington DC 20515-0918,,Representative
+FL,Byron Donalds,Republican,202-225-2536,https://donalds.house.gov,,RepDonaldsPress,,1710 Longworth House Office Building Washington DC 20515-0919,,Representative
+FL,Carlos A. Gimenez,Republican,202-225-2778,https://gimenez.house.gov,,RepCarlos,,448 Cannon House Office Building Washington DC 20515-0001,,Representative
+FL,Maria Elvira Salazar,Republican,202-225-3931,https://salazar.house.gov,,RepMariaSalazar,,2162 Rayburn House Office Building Washington DC 20515-0927,,Representative
+GA,Nikema Williams,Democrat,202-225-3801,https://nikemawilliams.house.gov,,RepNikema,,1406 Longworth House Office Building Washington DC 20515-1005,,Representative
+GA,Andrew S. Clyde,Republican,202-225-9893,https://clyde.house.gov,,Rep_Clyde,,445 Cannon House Office Building Washington DC 20515-1009,,Representative
+GA,Marjorie Taylor Greene,Republican,202-225-5211,https://greene.house.gov,,RepMTG,,2201 Rayburn House Office Building Washington DC 20515-1014,,Representative
+IA,Ashley Hinson,Republican,202-225-2911,https://hinson.house.gov,,RepAshleyHinson,,2458 Rayburn House Office Building Washington DC 20515-1502,,Representative
+IA,Mariannette Miller-Meeks,Republican,202-225-6576,https://millermeeks.house.gov,,RepMMM,,504 Cannon House Office Building Washington DC 20515-1501,,Representative
+IA,Randy Feenstra,Republican,202-225-4426,https://feenstra.house.gov,,RepFeenstra,,2434 Rayburn House Office Building Washington DC 20515-1504,,Representative
+IL,Mary E. Miller,Republican,202-225-5271,https://marymiller.house.gov,,RepMaryMiller,,1740 Longworth House Office Building Washington DC 20515-1315,,Representative
+IN,Frank J. Mrvan,Democrat,202-225-2461,https://mrvan.house.gov,,RepMrvan,,2441 Rayburn House Office Building Washington DC 20515-1401,,Representative
+IN,Victoria Spartz,Republican,202-225-2276,https://spartz.house.gov,,RepSpartz,,1609 Longworth House Office Building Washington DC 20515-1405,,Representative
+KS,Tracey Mann,Republican,202-225-2715,https://mann.house.gov,,RepMann,,344 Cannon House Office Building Washington DC 20515-1601,,Representative
+MA,Jake Auchincloss,Democrat,202-225-5931,https://auchincloss.house.gov,,RepAuchincloss,,1524 Longworth House Office Building Washington DC 20515-2104,,Representative
+MI,Lisa C. McClain,Republican,202-225-2106,https://mcclain.house.gov,,RepLisaMcClain,,562 Cannon House Office Building Washington DC 20515-2209,,Representative
+MN,Michelle Fischbach,Republican,202-225-2165,https://fischbach.house.gov,,RepFischbach,,2229 Rayburn House Office Building Washington DC 20515-2307,,Representative
+NC,Deborah K. Ross,Democrat,202-225-3032,https://ross.house.gov,,RepDeborahRoss,,1221 Longworth House Office Building Washington DC 20515-3302,,Representative
+NM,Teresa Leger Fernandez,Democrat,202-225-6190,https://fernandez.house.gov,,RepTeresaLF,,2417 Rayburn House Office Building Washington DC 20515-3103,,Representative
+NY,Andrew R. Garbarino,Republican,202-225-7896,https://garbarino.house.gov,,RepGarbarino,,2344 Rayburn House Office Building Washington DC 20515-3202,,Representative
+NY,Nicole Malliotakis,Republican,202-225-3371,https://malliotakis.house.gov,,RepMalliotakis,,1124 Longworth House Office Building Washington DC 20515-3211,,Representative
+NY,Ritchie Torres,Democrat,202-225-4361,https://ritchietorres.house.gov,,RepRitchie,,1414 Longworth House Office Building Washington DC 20515-3215,,Representative
+OK,Stephanie I. Bice,Republican,202-225-2132,https://bice.house.gov,,RepBice,,2402 Rayburn House Office Building Washington DC 20515-3605,,Representative
+OR,Cliff Bentz,Republican,202-225-6730,https://bentz.house.gov,,RepBentz,,409 Cannon House Office Building Washington DC 20515-3702,,Representative
+SC,Nancy Mace,Republican,202-225-3176,https://mace.house.gov,,RepNancyMace,,1728 Longworth House Office Building Washington DC 20515-4001,,Representative
+TN,Diana Harshbarger,Republican,202-225-6356,https://harshbarger.house.gov,,RepHarshbarger,,167 Cannon House Office Building Washington DC 20515-4201,,Representative
+TX,Pat Fallon,Republican,202-225-6673,https://fallon.house.gov,,RepPatFallon,,2416 Rayburn House Office Building Washington DC 20515-4304,,Representative
+TX,August Pfluger,Republican,202-225-3605,https://pfluger.house.gov,,RepPfluger,,2202 Rayburn House Office Building Washington DC 20515-4311,,Representative
+TX,Ronny Jackson,Republican,202-225-3706,https://jackson.house.gov,,RepRonnyJackson,,125 Cannon House Office Building Washington DC 20515-4313,,Representative
+TX,Troy E. Nehls,Republican,202-225-5951,https://nehls.house.gov,,RepTroyNehls,,1104 Longworth House Office Building Washington DC 20515-4322,,Representative
+TX,Tony Gonzales,Republican,202-225-4511,https://gonzales.house.gov,,RepTonyGonzales,,2239 Rayburn House Office Building Washington DC 20515-4323,,Representative
+TX,Beth Van Duyne,Republican,202-225-6605,https://vanduyne.house.gov,,RepBethVanDuyne,,1725 Longworth House Office Building Washington DC 20515-4324,,Representative
+UT,Blake D. Moore,Republican,202-225-0453,https://blakemoore.house.gov,,RepBlakeMoore,,1131 Longworth House Office Building Washington DC 20515-4401,,Representative
+UT,Burgess Owens,Republican,202-225-3011,https://owens.house.gov,,RepBurgessOwens,,309 Cannon House Office Building Washington DC 20515-4404,,Representative
+WA,Marilyn Strickland,Democrat,202-225-9740,https://strickland.house.gov,,RepStricklandWA,,1724 Longworth House Office Building Washington DC 20515-4710,,Representative
+WI,Scott Fitzgerald,Republican,202-225-5101,https://fitzgerald.house.gov,,RepFitzgerald,,2444 Rayburn House Office Building Washington DC 20515-4905,,Representative
+CA,Alex Padilla,Democrat,202-224-3553,https://www.padilla.senate.gov,,SenAlexPadilla,,331 Hart Senate Office Building Washington DC 20510,,Senator
+GA,Jon Ossoff,Democrat,202-224-3521,https://www.ossoff.senate.gov,,SenOssoff,,303 Hart Senate Office Building Washington DC 20510,,Senator
+GA,Raphael G. Warnock,Democrat,202-224-3643,https://www.warnock.senate.gov,,SenatorWarnock,,416 Russell Senate Office Building Washington DC 20510,,Senator
+NY,Claudia Tenney,Republican,202-225-3665,https://tenney.house.gov,,RepTenney,,2230 Rayburn House Office Building Washington DC 20515-3224,,Representative
+LA,Julia Letlow,Republican,202-225-8490,https://letlow.house.gov,,RepJuliaLetlow,,142 Cannon House Office Building Washington DC 20515-1805,,Representative
+LA,Troy A. Carter,Democrat,202-225-6636,https://troycarter.house.gov,,RepTroyCarter,,442 Cannon House Office Building Washington DC 20515-1802,,Representative
+NM,Melanie A. Stansbury,Democrat,202-225-6316,https://stansbury.house.gov,,Rep_Stansbury,,1421 Longworth House Office Building Washington DC 20515-3101,,Representative
+TX,Jake Ellzey,Republican,202-225-2002,https://ellzey.house.gov,,RepEllzey,,1721 Longworth House Office Building Washington DC 20515-4306,,Representative
+OH,Shontel M. Brown,Democrat,202-225-7032,https://shontelbrown.house.gov,,RepShontelBrown,,2455 Rayburn House Office Building Washington DC 20515-3511,,Representative
+OH,Mike Carey,Republican,202-225-2015,https://carey.house.gov,,RepMikeCarey,,1433 Longworth House Office Building Washington DC 20515-3515,,Representative
+FL,Sheila Cherfilus-McCormick,Democrat,202-225-1313,https://cherfilus-mccormick.house.gov,,,,2442 Rayburn House Office Building Washington DC 20515-0920,,Representative
+NE,Mike Flood,Republican,202-225-4806,https://flood.house.gov,,,,343 Cannon House Office Building Washington DC 20515-2701,,Representative
+MN,Brad Finstad,Republican,202-225-2472,https://finstad.house.gov,,,,2418 Rayburn House Office Building Washington DC 20515-2301,,Representative
+NY,Patrick Ryan,Democrat,202-225-5614,https://patryan.house.gov,,RepPatRyanNY,,1708 Longworth House Office Building Washington DC 20515-3218,,Representative
+IN,Rudy Yakym III,Republican,202-225-3915,https://yakym.house.gov,,RepRudyYakym,,349 Cannon House Office Building Washington DC 20515-1402,,Representative
+MT,Ryan K. Zinke,Republican,202-225-5628,https://zinke.house.gov,,,,512 Cannon House Office Building Washington DC 20515-2600,,Representative
+AL,Katie Boyd Britt,Republican,202-224-5744,https://www.britt.senate.gov,,,,502 Hart Senate Office Building Washington DC 20510,,Senator
+MO,Eric Schmitt,Republican,202-224-5721,https://www.schmitt.senate.gov,,,,387 Russell Senate Office Building Washington DC 20510,,Senator
+PA,John Fetterman,Democrat,202-224-4254,https://www.fetterman.senate.gov,,,,142 Russell Senate Office Building Washington DC 20510,,Senator
+AL,Dale W. Strong,Republican,202-225-4801,https://strong.house.gov,,,,449 Cannon House Office Building Washington DC 20515-0105,,Representative
+AZ,Elijah Crane,Republican,202-225-3361,https://crane.house.gov,,RepEliCrane,,307 Cannon House Office Building Washington DC 20515-0302,,Representative
+AZ,Juan Ciscomani,Republican,202-225-2542,https://ciscomani.house.gov,,RepCiscomani,,461 Cannon House Office Building Washington DC 20515-0306,,Representative
+CA,Kevin Kiley,Republican,202-225-2523,https://kiley.house.gov,,RepKiley,,2445 Rayburn House Office Building Washington DC 20515-0503,,Representative
+CA,Kevin Mullin,Democrat,202-225-3531,https://kevinmullin.house.gov,,RepKevinMullin,,1404 Longworth House Office Building Washington DC 20515-0515,,Representative
+CA,Sydney Kamlager-Dove,Democrat,202-225-7084,https://kamlager-dove.house.gov,,,,144 Cannon House Office Building Washington DC 20515-0537,,Representative
+CA,Robert Garcia,Democrat,202-225-7924,https://robertgarcia.house.gov,,RepRobertGarcia,,109 Cannon House Office Building Washington DC 20515-0542,,Representative
+CO,Brittany Pettersen,Democrat,202-225-2645,https://pettersen.house.gov,,,,348 Cannon House Office Building Washington DC 20515-0607,,Representative
+FL,Aaron Bean,Republican,202-225-0123,https://bean.house.gov,,RepAaronBean,,2459 Rayburn House Office Building Washington DC 20515-0904,,Representative
+FL,Cory Mills,Republican,202-225-4035,https://mills.house.gov,,,,346 Cannon House Office Building Washington DC 20515-0907,,Representative
+FL,Maxwell Frost,Democrat,202-225-2176,https://frost.house.gov,,RepMaxwellFrost,,1224 Longworth House Office Building Washington DC 20515-0910,,Representative
+FL,Anna Paulina Luna,Republican,202-225-5961,https://luna.house.gov,,RepLuna,,226 Cannon House Office Building Washington DC 20515-0913,,Representative
+FL,Laurel M. Lee,Republican,202-225-5626,https://laurellee.house.gov,,RepLaurelLee,,2464 Rayburn House Office Building Washington DC 20515-0915,,Representative
+FL,Jared Moskowitz,Democrat,202-225-3001,https://moskowitz.house.gov,,RepMoskowitz,,242 Cannon House Office Building Washington DC 20515-0923,,Representative
+GA,Richard McCormick,Republican,202-225-4272,https://mccormick.house.gov,,RepMcCormick,,1719 Longworth House Office Building Washington DC 20515-1007,,Representative
+GA,Mike Collins,Republican,202-225-4101,https://collins.house.gov,,RepMikeCollins,,2351 Rayburn House Office Building Washington DC 20515-1010,,Representative
+GU,James C. Moylan,Republican,202-225-1188,https://moylan.house.gov,,,,228 Cannon House Office Building Washington DC 20515-5301,,Representative
+HI,Jill N. Tokuda,Democrat,202-225-4906,https://tokuda.house.gov,,RepJillTokuda,,1027 Longworth House Office Building Washington DC 20515-1102,,Representative
+IA,Zachary Nunn,Republican,202-225-5476,https://nunn.house.gov,,ZachNunn,,1410 Longworth House Office Building Washington DC 20515-1503,,Representative
+IL,Jonathan L. Jackson,Democrat,202-225-4372,https://jonathanjackson.house.gov,,,,1632 Longworth House Office Building Washington DC 20515-1301,,Representative
+IL,Delia C. Ramirez,Democrat,202-225-5701,https://ramirez.house.gov,,,,1523 Longworth House Office Building Washington DC 20515-1303,,Representative
+IL,Nikki Budzinski,Democrat,202-225-2371,https://budzinski.house.gov,,RepNikkiB,,1717 Longworth House Office Building Washington DC 20515-1313,,Representative
+IL,Eric Sorensen,Democrat,202-225-5905,https://sorensen.house.gov,,RepEricSorensen,,1314 Longworth House Office Building Washington DC 20515-1317,,Representative
+IN,Erin Houchin,Republican,202-225-5315,https://houchin.house.gov,,RepHouchin,,342 Cannon House Office Building Washington DC 20515-1409,,Representative
+KY,Morgan McGarvey,Democrat,202-225-5401,https://mcgarvey.house.gov,,RepMcGarvey,,1527 Longworth House Office Building Washington DC 20515-1703,,Representative
+MD,Glenn Ivey,Democrat,202-225-8699,https://ivey.house.gov,,RepGlennIvey,,1610 Longworth House Office Building Washington DC 20515-2004,,Representative
+MI,Hillary J. Scholten,Democrat,202-225-3831,https://scholten.house.gov,,,,1317 Longworth House Office Building Washington DC 20515-2203,,Representative
+MI,John James,Republican,202-225-4961,https://james.house.gov,,,,1519 Longworth House Office Building Washington DC 20515-2210,,Representative
+MI,Shri Thanedar,Democrat,202-225-5802,https://thanedar.house.gov,,RepShriThanedar,,154 Cannon House Office Building Washington DC 20515-2213,,Representative
+MO,Mark Alford,Republican,202-225-2876,https://alford.house.gov,,,,328 Cannon House Office Building Washington DC 20515-2504,,Representative
+MO,Eric Burlison,Republican,202-225-6536,https://burlison.house.gov,,RepEricBurlison,,1108 Longworth House Office Building Washington DC 20515-2507,,Representative
+MS,Mike Ezell,Republican,202-225-5772,https://ezell.house.gov,,RepEzell,,443 Cannon House Office Building Washington DC 20515-2404,,Representative
+NC,Donald G. Davis,Democrat,202-225-3101,https://dondavis.house.gov,,,,1123 Longworth House Office Building Washington DC 20515-3301,,Representative
+NC,Valerie P. Foushee,Democrat,202-225-1784,https://foushee.house.gov,,ValerieFoushee,,2452 Rayburn House Office Building Washington DC 20515-3304,,Representative
+NC,Chuck Edwards,Republican,202-225-6401,https://edwards.house.gov,,RepEdwards,,1505 Longworth House Office Building Washington DC 20515-3311,,Representative
+NJ,"Thomas H. Kean, Jr.",Republican,202-225-5361,https://kean.house.gov,,CongressmanKean,,251 Cannon House Office Building Washington DC 20515-3007,,Representative
+NJ,Robert Menendez,Democrat,202-225-7919,https://menendez.house.gov,,RepMenendez,,2453 Rayburn House Office Building Washington DC 20515-3008,,Representative
+NM,Gabe Vasquez,Democrat,202-225-2365,https://vasquez.house.gov,,,,322 Cannon House Office Building Washington DC 20515-3102,,Representative
+NY,Nick LaLota,Republican,202-225-3826,https://lalota.house.gov,,RepLaLota,,122 Cannon House Office Building Washington DC 20515-3201,,Representative
+NY,Daniel S. Goldman,Democrat,202-225-7944,https://goldman.house.gov,,RepDanGoldman,,245 Cannon House Office Building Washington DC 20515-3210,,Representative
+NY,Michael Lawler,Republican,202-225-6506,https://lawler.house.gov,,RepMikeLawler,,324 Cannon House Office Building Washington DC 20515-3217,,Representative
+NY,Nicholas A. Langworthy,Republican,202-225-3161,https://langworthy.house.gov,,,,422 Cannon House Office Building Washington DC 20515-3223,,Representative
+OH,Greg Landsman,Democrat,202-225-2216,https://landsman.house.gov,,,,2244 Rayburn House Office Building Washington DC 20515-3501,,Representative
+OH,Max L. Miller,Republican,202-225-3876,https://maxmiller.house.gov,,,,143 Cannon House Office Building Washington DC 20515-3507,,Representative
+OH,Emilia Strong Sykes,Democrat,202-225-6265,https://sykes.house.gov,,RepEmiliaSykes,,1217 Longworth House Office Building Washington DC 20515-3513,,Representative
+OK,Josh Brecheen,Republican,202-225-2701,https://brecheen.house.gov,,,,351 Cannon House Office Building Washington DC 20515-3602,,Representative
+OR,Val T. Hoyle,Democrat,202-225-6416,https://hoyle.house.gov,,repvalhoyle,,1620 Longworth House Office Building Washington DC 20515-3704,,Representative
+OR,Andrea Salinas,Democrat,202-225-5643,https://salinas.house.gov,,,,403 Cannon House Office Building Washington DC 20515-0001,,Representative
+PA,Summer L. Lee,Democrat,202-225-2135,https://summerlee.house.gov,,,,2437 Rayburn House Office Building Washington DC 20515-3812,,Representative
+PA,Christopher R. Deluzio,Democrat,202-225-2301,https://deluzio.house.gov,,RepDeluzio,,1222 Longworth House Office Building Washington DC 20515-3817,,Representative
+RI,Seth Magaziner,Democrat,202-225-2735,https://magaziner.house.gov,,,,252 Cannon House Office Building Washington DC 20515-3902,,Representative
+SC,Russell Fry,Republican,202-225-9895,https://fry.house.gov,,RepRussellFry,,345 Cannon House Office Building Washington DC 20515-4007,,Representative
+TN,Andrew Ogles,Republican,202-225-4311,https://ogles.house.gov,,,,151 Cannon House Office Building Washington DC 20515-4205,,Representative
+TX,Nathaniel Moran,Republican,202-225-3035,https://moran.house.gov,,,,1605 Longworth House Office Building Washington DC 20515-4301,,Representative
+TX,Keith Self,Republican,202-225-4201,https://keithself.house.gov,,,,1030 Longworth House Office Building Washington DC 20515-4303,,Representative
+TX,Morgan Luttrell,Republican,202-225-4901,https://luttrell.house.gov,,RepLuttrell,,444 Cannon House Office Building Washington DC 20515-4308,,Representative
+TX,Monica De La Cruz,Republican,202-225-9901,https://delacruz.house.gov,,,,1415 Longworth House Office Building Washington DC 20515-4315,,Representative
+TX,Jasmine Crockett,Democrat,202-225-8885,https://crockett.house.gov,,RepJasmine,,1616 Longworth House Office Building Washington DC 20515-4330,,Representative
+TX,Greg Casar,Democrat,202-225-5645,https://casar.house.gov,,RepCasar,,446 Cannon House Office Building Washington DC 20515-4335,,Representative
+TX,Wesley Hunt,Republican,202-225-5646,https://hunt.house.gov,,RepWesleyHunt,,1520 Longworth House Office Building Washington DC 20515-0001,,Representative
+VA,Jennifer A. Kiggans,Republican,202-225-4215,https://kiggans.house.gov,,,,152 Cannon House Office Building Washington DC 20515-4602,,Representative
+VT,Becca Balint,Democrat,202-225-4115,https://balint.house.gov,,RepBeccaB,,1510 Longworth House Office Building Washington DC 20515-4500,,Representative
+WA,Marie Gluesenkamp Perez,Democrat,202-225-3536,https://gluesenkampperez.house.gov,,RepMGP,,1431 Longworth House Office Building Washington DC 20515-4703,,Representative
+WI,Derrick Van Orden,Republican,202-225-5506,https://vanorden.house.gov,,RepVanOrden,,1513 Longworth House Office Building Washington DC 20515-4903,,Representative
+WY,Harriet M. Hageman,Republican,202-225-2311,https://hageman.house.gov,,,,1227 Longworth House Office Building Washington DC 20515-5000,,Representative
+NE,Pete Ricketts,Republican,202-224-4224,https://www.ricketts.senate.gov,,,,139 Russell Senate Office Building Washington DC 20510,,Senator
+VA,Jennifer L. McClellan,Democrat,202-225-6365,https://mcclellan.house.gov,,,,1628 Longworth House Office Building Washington DC 20515-4604,,Representative
+RI,Gabe Amo,Democrat,202-225-4911,https://amo.house.gov,,,,1119 Longworth House Office Building Washington DC 20515-3901,,Representative
+UT,Celeste Maloy,Republican,202-225-9730,https://maloy.house.gov,,,,249 Cannon House Office Building Washington DC 20515-4402,,Representative
+NY,Thomas R. Suozzi,Democrat,202-225-3335,https://suozzi.house.gov,,,,203 Cannon House Office Building Washington DC 20515-3203,,Representative
+NY,Timothy M. Kennedy,Democrat,202-225-3306,https://kennedy.house.gov,,,,423 Cannon House Office Building Washington DC 20515-3226,,Representative
+CA,Vince Fong,Republican,202-225-2915,https://fong.house.gov,,,,243 Cannon House Office Building Washington DC 20515-0520,,Representative
+OH,Michael A. Rulli,Republican,202-225-5705,https://rulli.house.gov,,,,421 Cannon House Office Building Washington DC 20515-3506,,Representative
+NJ,LaMonica McIver,Democrat,202-225-3436,https://mciver.house.gov,,,,426 Cannon House Office Building Washington DC 20515-3010,,Representative
+WI,Tony Wied,Republican,202-225-5665,https://wied.house.gov,,,,424 Cannon House Office Building Washington DC 20515-4908,,Representative
+LA,Cleo Fields,Democrat,202-225-3901,https://fields.house.gov,,,,2349 Rayburn House Office Building Washington DC 20515-1806,,Representative
+IN,Marlin A. Stutzman,Republican,202-225-4436,https://stutzman.house.gov,,,,404 Cannon House Office Building Washington DC 20515-1403,,Representative
+CA,"Gilbert Ray Cisneros, Jr.",Democrat,202-225-5256,https://cisneros.house.gov,,,,2463 Rayburn House Office Building Washington DC 20515-0531,,Representative
+MD,Angela D. Alsobrooks,Democrat,202-224-4524,https://www.alsobrooks.senate.gov,,,,B40E Dirksen Senate Office Building Washington DC 20510,,Senator
+MT,Tim Sheehy,Republican,202-224-2644,https://www.sheehy.senate.gov,,,,G55 Dirksen Senate Office Building Washington DC 20510,,Senator
+OH,Bernie Moreno,Republican,202-224-2315,https://www.moreno.senate.gov,,,,B33 Russell Senate Office Building Washington DC 20510,,Senator
+PA,David McCormick,Republican,202-224-6324,https://www.mccormick.senate.gov,,,,B40C Dirksen Senate Office Building Washington DC 20510,,Senator
+AK,Nicholas J. Begich III,Republican,202-225-5765,https://begich.house.gov,,,,153 Cannon House Office Building Washington DC 20515-0200,,Representative
+AL,Shomari Figures,Democrat,202-225-4931,https://figures.house.gov,,,,225 Cannon House Office Building Washington DC 20515-0102,,Representative
+AZ,Yassamin Ansari,Democrat,202-225-4065,https://ansari.house.gov,,,,1432 Longworth House Office Building Washington DC 20515-0303,,Representative
+AZ,Abraham J. Hamadeh,Republican,202-225-4576,https://hamadeh.house.gov,,,,1722 Longworth House Office Building Washington DC 20515-0308,,Representative
+CA,Lateefah Simon,Democrat,202-225-2661,https://simon.house.gov,,,,1023 Longworth House Office Building Washington DC 20515-0512,,Representative
+CA,Adam Gray,Democrat,202-225-1947,https://gray.house.gov,,,,1230 Longworth House Office Building Washington DC 20515-0513,,Representative
+CA,Sam T. Liccardo,Democrat,202-225-8104,https://liccardo.house.gov,,,,1117 Longworth House Office Building Washington DC 20515-0516,,Representative
+CA,George Whitesides,Democrat,202-225-1956,https://whitesides.house.gov,,,,1504 Longworth House Office Building Washington DC 20515-0527,,Representative
+CA,Luz M. Rivas,Democrat,202-225-6131,https://rivas.house.gov,,,,1319 Longworth House Office Building Washington DC 20515-0529,,Representative
+CA,Laura Friedman,Democrat,202-225-4176,https://friedman.house.gov,,,,1517 Longworth House Office Building Washington DC 20515-0530,,Representative
+CA,Derek Tran,Democrat,202-225-2415,https://tran.house.gov,,,,1127 Longworth House Office Building Washington DC 20515-0545,,Representative
+CA,Dave Min,Democrat,202-225-5611,https://min.house.gov,,,,1034 Longworth House Office Building Washington DC 20515-0547,,Representative
+CO,Jeff Hurd,Republican,202-225-4676,https://hurd.house.gov,,,,1641 Longworth House Office Building Washington DC 20515-0603,,Representative
+CO,Jeff Crank,Republican,202-225-4422,https://crank.house.gov,,,,1029 Longworth House Office Building Washington DC 20515-0605,,Representative
+CO,Gabe Evans,Republican,202-225-5625,https://gabeevans.house.gov,,,,1229 Longworth House Office Building Washington DC 20515-0001,,Representative
+DE,Sarah McBride,Democrat,202-225-4165,https://mcbride.house.gov,,,,1306 Longworth House Office Building Washington DC 20515-0800,,Representative
+FL,Mike Haridopolos,Republican,202-225-3671,https://haridopolos.house.gov,,,,1039 Longworth House Office Building Washington DC 20515-0908,,Representative
+GA,Brian Jack,Republican,202-225-5901,https://jack.house.gov,,,,1320 Longworth House Office Building Washington DC 20515-1003,,Representative
+IN,Jefferson Shreve,Republican,202-225-3021,https://shreve.house.gov,,,,224 Cannon House Office Building Washington DC 20515-1406,,Representative
+IN,Mark B. Messmer,Republican,202-225-4636,https://messmer.house.gov,,,,1208 Longworth House Office Building Washington DC 20515-1408,,Representative
+KS,Derek Schmidt,Republican,202-225-6601,https://schmidt.house.gov,,,,1223 Longworth House Office Building Washington DC 20515-1602,,Representative
+MD,"Johnny Olszewski, Jr.",Democrat,202-225-3061,https://olszewski.house.gov,,,,1339 Longworth House Office Building Washington DC 20515-2002,,Representative
+MD,Sarah Elfreth,Democrat,202-225-4016,https://elfreth.house.gov,,,,1213 Longworth House Office Building Washington DC 20515-2003,,Representative
+MD,April McClain Delaney,Democrat,202-225-2721,https://mcclaindelaney.house.gov,,,,1130 Longworth House Office Building Washington DC 20515-2006,,Representative
+MI,Tom Barrett,Republican,202-225-4872,https://barrett.house.gov,,,,1232 Longworth House Office Building Washington DC 20515-2207,,Representative
+MI,Kristen McDonald Rivet,Democrat,202-225-3611,https://mcdonaldrivet.house.gov,,,,1408 Longworth House Office Building Washington DC 20515-2208,,Representative
+MN,Kelly Morrison,Democrat,202-225-2871,https://morrison.house.gov,,,,1205 Longworth House Office Building Washington DC 20515-2303,,Representative
+MO,Wesley Bell,Democrat,202-225-2406,https://bell.house.gov,,,,1429 Longworth House Office Building Washington DC 20515-2501,,Representative
+MO,"Robert F. Onder, Jr.",Republican,202-225-2956,https://onder.house.gov,,,,1113 Longworth House Office Building Washington DC 20515-2503,,Representative
+MP,Kimberlyn King-Hinds,Republican,202-225-2646,https://king-hinds.house.gov,,,,425 Cannon House Office Building Washington DC 20515-5201,,Representative
+MT,Troy Downing,Republican,202-225-3211,https://downing.house.gov,,,,1529 Longworth House Office Building Washington DC 20515-0001,,Representative
+NC,Addison P. McDowell,Republican,202-225-3065,https://mcdowell.house.gov,,,,1032 Longworth House Office Building Washington DC 20515-3306,,Representative
+NC,Mark Harris,Republican,202-225-1976,https://markharris.house.gov,,,,126 Cannon House Office Building Washington DC 20515-3308,,Representative
+NC,Pat Harrigan,Republican,202-225-2576,https://harrigan.house.gov,,,,1233 Longworth House Office Building Washington DC 20515-3310,,Representative
+NC,Brad Knott,Republican,202-225-4531,https://knott.house.gov,,,,1239 Longworth House Office Building Washington DC 20515-3313,,Representative
+NC,Tim Moore,Republican,202-225-5634,https://timmoore.house.gov,,,,1424 Longworth House Office Building Washington DC 20515-0001,,Representative
+ND,Julie Fedorchak,Republican,202-225-2611,https://fedorchak.house.gov,,,,1607 Longworth House Office Building Washington DC 20515-3400,,Representative
+NH,Maggie Goodlander,Democrat,202-225-5206,https://goodlander.house.gov,,,,223 Cannon House Office Building Washington DC 20515-2902,,Representative
+NJ,"Herbert C. Conaway, Jr.",Democrat,202-225-4765,https://conaway.house.gov,,,,1022 Longworth House Office Building Washington DC 20515-3003,,Representative
+NJ,Nellie Pou,Democrat,202-225-5751,https://pou.house.gov,,,,1007 Longworth House Office Building Washington DC 20515-3009,,Representative
+NY,Laura Gillen,Democrat,202-225-5516,https://gillen.house.gov,,,,428 Cannon House Office Building Washington DC 20515-3204,,Representative
+NY,George Latimer,Democrat,202-225-2464,https://latimer.house.gov,,,,1507 Longworth House Office Building Washington DC 20515-3216,,Representative
+NY,Josh Riley,Democrat,202-225-5441,https://riley.house.gov,,,,128 Cannon House Office Building Washington DC 20515-3219,,Representative
+NY,John W. Mannion,Democrat,202-225-3701,https://mannion.house.gov,,,,1516 Longworth House Office Building Washington DC 20515-3222,,Representative
+OH,David J. Taylor,Republican,202-225-3164,https://taylor.house.gov,,,,325 Cannon House Office Building Washington DC 20515-3502,,Representative
+OR,Maxine Dexter,Democrat,202-225-4811,https://dexter.house.gov,,,,1207 Longworth House Office Building Washington DC 20515-3703,,Representative
+OR,Janelle S. Bynum,Democrat,202-225-5711,https://bynum.house.gov,,,,1508 Longworth House Office Building Washington DC 20515-3705,,Representative
+PA,Ryan Mackenzie,Republican,202-225-6411,https://mackenzie.house.gov,,,,121 Cannon House Office Building Washington DC 20515-3807,,Representative
+PA,"Robert P. Bresnahan, Jr.",Republican,202-225-5546,https://bresnahan.house.gov,,,,1133 Longworth House Office Building Washington DC 20515-3808,,Representative
+PR,Pablo José Hernández,Democrat,202-225-2615,https://hernandez.house.gov,,,,1419 Longworth House Office Building Washington DC 20515-5401,,Representative
+SC,Sheri Biggs,Republican,202-225-5301,https://sheribiggs.house.gov,,,,1530 Longworth House Office Building Washington DC 20515-4003,,Representative
+TX,Craig A. Goldman,Republican,202-225-5071,https://craiggoldman.house.gov,,,,1716 Longworth House Office Building Washington DC 20515-4312,,Representative
+TX,Sylvester Turner,Democrat,202-225-3816,https://sylvesterturner.house.gov,,,,1318 Longworth House Office Building Washington DC 20515-4318,,Representative
+TX,Brandon Gill,Republican,202-225-7772,https://gill.house.gov,,,,1305 Longworth House Office Building Washington DC 20515-4326,,Representative
+TX,Julie Johnson,Democrat,202-225-2231,https://juliejohnson.house.gov,,,,221 Cannon House Office Building Washington DC 20515-4332,,Representative
+UT,Mike Kennedy,Republican,202-225-7751,https://mikekennedy.house.gov,,,,1626 Longworth House Office Building Washington DC 20515-4403,,Representative
+VA,John J. McGuire III,Republican,202-225-4711,https://mcguire.house.gov,,,,1013 Longworth House Office Building Washington DC 20515-4605,,Representative
+VA,Eugene Simon Vindman,Democrat,202-225-2815,https://vindman.house.gov,,,,1005 Longworth House Office Building Washington DC 20515-4607,,Representative
+VA,Suhas Subramanyam,Democrat,202-225-5136,https://subramanyam.house.gov,,,,1009 Longworth House Office Building Washington DC 20515-4610,,Representative
+WA,Michael Baumgartner,Republican,202-225-2006,https://baumgartner.house.gov,,,,124 Cannon House Office Building Washington DC 20515-4705,,Representative
+WA,Emily Randall,Democrat,202-225-5916,https://randall.house.gov,,,,1531 Longworth House Office Building Washington DC 20515-4706,,Representative
+WV,Riley M. Moore,Republican,202-225-2711,https://rileymoore.house.gov,,,,1337 Longworth House Office Building Washington DC 20515-4802,,Representative
+WV,James C. Justice,Republican,202-224-3954,https://www.justice.senate.gov,,,,G12 Dirksen Senate Office Building Washington DC 20510,,Senator
+OH,Jon Husted,Republican,202-224-3353,https://www.husted.senate.gov,,,,198 Russell Senate Office Building Washington DC 20510,,Senator
+FL,Ashley Moody,Republican,202-224-3041,https://www.moody.senate.gov,,,,B40B Dirksen Senate Office Building Washington DC 20510,,Senator
