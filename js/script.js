@@ -22,22 +22,27 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
     async function displayOfficials() {
-        const state = stateSelector.value.trim().toUpperCase();
-        if (!state) return;
+    const state = stateSelector.value.trim().toUpperCase();
+    if (!state) return;
 
-        container.innerHTML = "Loading officials...";
+    container.innerHTML = "Loading officials...";
 
-        const csvOfficials = await loadCSV();
-        const filteredOfficials = csvOfficials.filter(official => 
-            official.state && official.state.trim().toUpperCase() === state
-        );
+    const csvOfficials = await loadCSV();
+    console.log("All Officials Data:", csvOfficials); // Debugging
 
-        container.innerHTML = "";
+    const filteredOfficials = csvOfficials.filter(official => 
+        official.state && official.state.trim().toUpperCase() === state
+    );
 
-        if (filteredOfficials.length === 0) {
-            container.innerHTML = "<p>No officials found for this state.</p>";
-            return;
-        }
+    console.log("Filtered Officials:", filteredOfficials); // Debugging
+
+    container.innerHTML = "";
+
+    if (filteredOfficials.length === 0) {
+        container.innerHTML = "<p>No officials found for this state.</p>";
+        return;
+    }
+
 
         filteredOfficials.forEach(official => {
             const partyClass = official.party ? official.party.toLowerCase().replace(/\s+/g, "-") : "unknown";
