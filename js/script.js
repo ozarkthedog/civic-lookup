@@ -46,7 +46,8 @@ document.addEventListener("DOMContentLoaded", async function () {
                 website: latestTerm.url || "N/A",
                 twitter: socialMediaMap[legislator.id.bioguide]?.twitter || "",
                 facebook: socialMediaMap[legislator.id.bioguide]?.facebook || "",
-                instagram: socialMediaMap[legislator.id.bioguide]?.instagram || ""
+                instagram: socialMediaMap[legislator.id.bioguide]?.instagram || "",
+                youtube: socialMediaMap[legislator.id.bioguide]?.youtube || ""
             };
         });
     }
@@ -83,7 +84,7 @@ document.addEventListener("DOMContentLoaded", async function () {
                     ${official.twitter ? `<a href="https://twitter.com/${official.twitter}" target="_blank">🐦 Twitter</a>` : ""}
                     ${official.facebook ? `<a href="https://facebook.com/${official.facebook}" target="_blank">📘 Facebook</a>` : ""}
                     ${official.instagram ? `<a href="https://instagram.com/${official.instagram}" target="_blank">📸 Instagram</a>` : ""}
-                    
+                    ${official.youtube ? `<a href="https://youtube.com/${official.youtube}" target="_blank">🎥 YouTube</a>` : ""}
                 </div>
             `;
             container.appendChild(card);
@@ -91,6 +92,4 @@ document.addEventListener("DOMContentLoaded", async function () {
     }
 
     stateSelector.addEventListener("change", displayOfficials);
-});
-Selector.addEventListener("change", displayOfficials);
 });
