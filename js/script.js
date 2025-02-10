@@ -38,11 +38,15 @@ document.addEventListener("DOMContentLoaded", async function () {
                 state: latestTerm.state,
                 chamber: latestTerm.type === "sen" ? "Senate" : "House",
                 party: latestTerm.party,
+                district: latestTerm.district || "N/A",
+                startDate: latestTerm.start || "Unknown",
+                endDate: latestTerm.end || "Unknown",
                 phone: latestTerm.phone || "N/A",
                 office: latestTerm.office || "N/A",
                 website: latestTerm.url || "N/A",
                 twitter: socialMediaMap[legislator.id.bioguide]?.twitter || "",
                 facebook: socialMediaMap[legislator.id.bioguide]?.facebook || "",
+                instagram: socialMediaMap[legislator.id.bioguide]?.instagram || "",
                 youtube: socialMediaMap[legislator.id.bioguide]?.youtube || ""
             };
         });
@@ -71,12 +75,15 @@ document.addEventListener("DOMContentLoaded", async function () {
             card.innerHTML = `
                 <h3>${official.fullName}</h3>
                 <p><strong>${official.chamber}</strong> | ${official.party}</p>
+                <p>📍 District: ${official.district}</p>
+                <p>📅 In Office: ${official.startDate} - ${official.endDate}</p>
                 <p>📞 <a href="tel:${official.phone}">${official.phone}</a></p>
                 <p>🏛️ Office: ${official.office}</p>
                 <p><a href="${official.website}" target="_blank" class="website-btn">Official Website</a></p>
                 <div class="social-links">
                     ${official.twitter ? `<a href="https://twitter.com/${official.twitter}" target="_blank">🐦 Twitter</a>` : ""}
                     ${official.facebook ? `<a href="https://facebook.com/${official.facebook}" target="_blank">📘 Facebook</a>` : ""}
+                    ${official.instagram ? `<a href="https://instagram.com/${official.instagram}" target="_blank">📸 Instagram</a>` : ""}
                     ${official.youtube ? `<a href="https://youtube.com/${official.youtube}" target="_blank">🎥 YouTube</a>` : ""}
                 </div>
             `;
