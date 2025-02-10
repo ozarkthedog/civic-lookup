@@ -41,11 +41,6 @@ h2 {
   margin: 20px 0;
 }
 
-h2 .highlight {
-  font-weight: bold; /* Bold text */
-  color: #5d6ff3; /* Change color (e.g., blue) */
-}
-
 /* Mobile Styles */
 @media (max-width: 768px) {
   h1 {
