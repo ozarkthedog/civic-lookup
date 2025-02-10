@@ -16,13 +16,15 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     async function displayOfficials() {
-        const state = stateSelector.value;
+        const state = stateSelector.value.trim().toUpperCase();
         if (!state) return;
 
         container.innerHTML = "Loading officials...";
 
         const csvOfficials = await loadCSV();
-        const filteredOfficials = csvOfficials.filter(official => official.state === state);
+        const filteredOfficials = csvOfficials.filter(official => 
+            official.state && official.state.trim().toUpperCase() === state
+        );
 
         container.innerHTML = "";
 
@@ -49,6 +51,10 @@ document.addEventListener("DOMContentLoaded", function () {
             container.appendChild(card);
         });
     }
+
+    stateSelector.addEventListener("change", displayOfficials);
+});
+
 
     stateSelector.addEventListener("change", displayOfficials);
 });
