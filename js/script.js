@@ -1,20 +1,25 @@
 document.addEventListener("DOMContentLoaded", function () {
     const stateSelector = document.getElementById("stateSelector");
     const container = document.getElementById("officialsContainer");
-    const csvURL = "https://raw.githubusercontent.com/ozarkthedog/civic_lookup/main/data/officials_cleaned.csv";
+    const csvURL = "https://raw.githubusercontent.com/ozarkthedog/civic_lookup/main/data/officials.csv";
     console.log("Filtered Officials:", filteredOfficials);
 
     async function loadCSV() {
-        const response = await fetch(csvURL);
-        const csvText = await response.text();
-        return new Promise(resolve => {
-            Papa.parse(csvText, {
-                header: true,
-                skipEmptyLines: true,
-                complete: results => resolve(results.data)
-            });
+    const response = await fetch(csvURL);
+    const csvText = await response.text();
+    console.log("CSV Loaded:", csvText); // Debugging
+    return new Promise(resolve => {
+        Papa.parse(csvText, {
+            header: true,
+            skipEmptyLines: true,
+            complete: results => {
+                console.log("Parsed CSV Data:", results.data); // Debugging
+                resolve(results.data);
+            }
         });
-    }
+    });
+}
+
 
     async function displayOfficials() {
         const state = stateSelector.value.trim().toUpperCase();
