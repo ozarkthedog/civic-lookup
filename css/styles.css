@@ -52,6 +52,8 @@ select {
   padding-left: 32px;
   padding-bottom: 18px;
   margin-top: 48px;
+  margin-bottom: 48px;
+  box-shadow: 0px 4px 8px rgba(171, 190, 209, 0.4);
   border: 2px solid #5d6ff3;
   border-radius: 5px;
   cursor: pointer;
@@ -65,7 +67,6 @@ select {
   width: 60%;
   max-width: 600px;
   outline: none; /* Prevents browser focus outline */
-  box-shaw: 0px 4px 8px rgba(171, 190, 209, 0.4);
 }
 
 /* Keeps the custom border color when focused */
