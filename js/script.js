@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", async function () {
     const stateSelector = document.getElementById("stateSelector");
     const container = document.getElementById("officialsContainer");
+    container.style.display = "none"; // Hide container initially
     
     const currentLegislatorsURL = "https://unitedstates.github.io/congress-legislators/legislators-current.json";
     const socialMediaURL = "https://unitedstates.github.io/congress-legislators/legislators-social-media.json";
@@ -22,7 +23,6 @@ document.addEventListener("DOMContentLoaded", async function () {
             fetchJSON(socialMediaURL)
         ]);
         
-        // Map social media data by bioguide ID
         const socialMediaMap = {};
         socialMedia.forEach(entry => {
             if (entry.id.bioguide) {
@@ -30,7 +30,6 @@ document.addEventListener("DOMContentLoaded", async function () {
             }
         });
 
-        // Merge social media info into legislators
         return legislators.map(legislator => {
             const latestTerm = legislator.terms[legislator.terms.length - 1];
             return {
@@ -53,6 +52,7 @@ document.addEventListener("DOMContentLoaded", async function () {
         const state = stateSelector.value.trim().toUpperCase();
         if (!state) return;
 
+        container.style.display = "block"; // Show container when state is selected
         container.innerHTML = "Loading officials...";
         const legislators = await loadLegislators();
         const filteredOfficials = legislators.filter(official => official.state === state);
@@ -71,13 +71,13 @@ document.addEventListener("DOMContentLoaded", async function () {
             card.innerHTML = `
                 <h3>${official.fullName}</h3>
                 <p><strong>${official.chamber}</strong> | ${official.party}</p>
-                <p>Phone: <a href="tel:${official.phone}">${official.phone}</a></p>
-                <p>Office: ${official.office}</p>
-                <p><a href="${official.website}" target="_blank">Official Website</a></p>
+                <p>📞 <a href="tel:${official.phone}">${official.phone}</a></p>
+                <p>🏛️ Office: ${official.office}</p>
+                <p><a href="${official.website}" target="_blank" class="website-btn">Official Website</a></p>
                 <div class="social-links">
-                    ${official.twitter ? `<a href="https://twitter.com/${official.twitter}" target="_blank">Twitter</a>` : ""}
-                    ${official.facebook ? `<a href="https://facebook.com/${official.facebook}" target="_blank">Facebook</a>` : ""}
-                    ${official.youtube ? `<a href="https://youtube.com/${official.youtube}" target="_blank">YouTube</a>` : ""}
+                    ${official.twitter ? `<a href="https://twitter.com/${official.twitter}" target="_blank">🐦 Twitter</a>` : ""}
+                    ${official.facebook ? `<a href="https://facebook.com/${official.facebook}" target="_blank">📘 Facebook</a>` : ""}
+                    ${official.youtube ? `<a href="https://youtube.com/${official.youtube}" target="_blank">🎥 YouTube</a>` : ""}
                 </div>
             `;
             container.appendChild(card);
