@@ -24,34 +24,35 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     async function displayOfficials() {
-        const state = stateSelector.value;
-        if (!state) return;
+    const state = stateSelector.value;
+    if (!state) return;
 
-        container.innerHTML = "Loading officials...";
+    container.innerHTML = "Loading officials...";
 
-        const [csvOfficials, apiOfficials] = await Promise.all([loadCSV(), fetchOfficials(state)]);
-        container.innerHTML = "";
+    const [csvOfficials, apiOfficials] = await Promise.all([loadCSV(), fetchOfficials(state)]);
+    console.log("CSV Officials:", csvOfficials); // Log CSV data
+    console.log("API Officials:", apiOfficials); // Log API data
 
-        apiOfficials.forEach(apiOfficial => {
-            const csvMatch = csvOfficials.find(o => o.full_name === apiOfficial.name);
-            const partyClass = apiOfficial.party ? apiOfficial.party.toLowerCase().replace(/\s+/g, "-") : "unknown";
+    container.innerHTML = "";
 
-            const card = document.createElement("div");
-            card.classList.add("official-card");
+    apiOfficials.forEach(apiOfficial => {
+        const csvMatch = csvOfficials.find(o => o.full_name === apiOfficial.name);
+        console.log("Matched Official:", csvMatch); // Log matched official
+        const partyClass = apiOfficial.party ? apiOfficial.party.toLowerCase().replace(/\s+/g, "-") : "unknown";
 
-            card.innerHTML = `
-                <img src="${apiOfficial.photoUrl || 'default-image.jpg'}" alt="${apiOfficial.name}">
-                <h3>${apiOfficial.name}</h3>
-                <p>${csvMatch ? csvMatch.type : "Unknown Title"}</p>
-                <div class="party ${partyClass}">${apiOfficial.party}</div>
-                <p>State Office: <br><a href="#">${csvMatch ? csvMatch.address : "N/A"}</a></p>
-                <p>D.C. Office: <br><a href="#">${csvMatch ? csvMatch.address : "N/A"}</a></p>
-                <a href="${csvMatch ? csvMatch.url : '#'}" class="website-btn">Contact on Website</a>
-                <button class="call-btn">Call Office</button>
-            `;
-            container.appendChild(card);
-        });
-    }
+        const card = document.createElement("div");
+        card.classList.add("official-card");
 
-    stateSelector.addEventListener("change", displayOfficials);
-});
+        card.innerHTML = `
+            <img src="${apiOfficial.photoUrl || 'default-image.jpg'}" alt="${apiOfficial.name}">
+            <h3>${apiOfficial.name}</h3>
+            <p>${csvMatch ? csvMatch.type : "Unknown Title"}</p>
+            <div class="party ${partyClass}">${apiOfficial.party}</div>
+            <p>State Office: <br><a href="#">${csvMatch ? csvMatch.address : "N/A"}</a></p>
+            <p>D.C. Office: <br><a href="#">${csvMatch ? csvMatch.address : "N/A"}</a></p>
+            <a href="${csvMatch ? csvMatch.url : '#'}" class="website-btn">Contact on Website</a>
+            <button class="call-btn">Call Office</button>
+        `;
+        container.appendChild(card);
+    });
+}
