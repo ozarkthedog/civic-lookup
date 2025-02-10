@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const container = document.getElementById("officialsContainer");
 
     function loadOfficials(state) {
-        fetch(`https://www.googleapis.com/civicinfo/v2/representatives?key=YOUR_API_KEY&address=${state}`)
+        fetch(`https://www.googleapis.com/civicinfo/v2/representatives?key=YAIzaSyB3tCnoBkjAFeYCRqy_44xNl1cbvizyXSg&address=${state}`)
             .then(response => response.json())
             .then(data => {
                 container.innerHTML = "";
