@@ -41,21 +41,16 @@ h2 {
   margin: 20px 0;
 }
 
-h2 span {
-  color: #5d6ff3;
-  font-weight: bold;
-}
-
 /* Mobile Styles */
 @media (max-width: 768px) {
   h1 {
-    font-size: 3rem; /* Smaller font size for mobile */
-    margin-top: 60px; /* Adjust margin for mobile */
+    font-size: 3rem;
+    margin-top: 60px;
   }
 
   h2 {
-    font-size: 1.5rem; /* Smaller font size for mobile */
-    margin: 10px 0; /* Adjust margin for mobile */
+    font-size: 1.5rem;
+    margin: 10px 0;
   }
 }
 
