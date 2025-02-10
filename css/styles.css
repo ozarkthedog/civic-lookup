@@ -41,6 +41,16 @@ h2 {
   margin: 20px 0;
 }
 
+h2 .highlight {
+  font-weight: bold; /* Bold text */
+  color: #5d6ff3; /* Change color (e.g., blue) */
+}
+
+/* Hide <br> on desktop */
+h2 br {
+  display: none;
+}
+
 /* Mobile Styles */
 @media (max-width: 768px) {
   h1 {
@@ -51,6 +61,11 @@ h2 {
   h2 {
     font-size: 1.5rem;
     margin: 10px 0;
+  }
+
+  /* Show <br> on mobile */
+  h2 br {
+    display: block;
   }
 }
 
