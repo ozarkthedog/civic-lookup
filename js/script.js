@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const stateSelector = document.getElementById("stateSelector");
     const container = document.getElementById("officialsContainer");
     const csvURL = "https://raw.githubusercontent.com/ozarkthedog/civic_lookup/main/data/officials_cleaned.csv";
+    console.log("Filtered Officials:", filteredOfficials);
 
     async function loadCSV() {
         const response = await fetch(csvURL);
@@ -58,4 +59,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
     stateSelector.addEventListener("change", displayOfficials);
 });
+
+
 
