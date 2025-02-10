@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
     const stateSelector = document.getElementById("stateSelector");
     const container = document.getElementById("officialsContainer");
-    const csvURL = "https://raw.githubusercontent.com/ozarkthedog/civic_lookup/main/data/officials.csv";
+    const csvURL = "https://raw.githubusercontent.com/ozarkthedog/civic_lookup/main/data/officials_cleaned.csv";
 
     async function loadCSV() {
         const response = await fetch(csvURL);
@@ -41,11 +41,10 @@ document.addEventListener("DOMContentLoaded", function () {
                 <img src="${official.photoUrl || 'default-image.jpg'}" alt="${official.full_name}">
                 <h3>${official.full_name}</h3>
                 <p>${official.type || "Unknown Title"}</p>
-                <div class="party ${partyClass}">${official.party}</div>
-                <p>State Office: <br><a href="#">${official.address || "N/A"}</a></p>
-                <p>D.C. Office: <br><a href="#">${official.dc_address || "N/A"}</a></p>
-                <a href="${official.url || '#'}" class="website-btn">Contact on Website</a>
-                <button class="call-btn">Call Office</button>
+                <div class="party ${partyClass}">${official.party || "Unknown Party"}</div>
+                <p>State Office: <br><span>${official.address || "N/A"}</span></p>
+                <p>D.C. Office: <br><span>${official.dc_address || "N/A"}</span></p>
+                <a href="${official.url || '#'}" class="website-btn" target="_blank">Contact on Website</a>
             `;
             container.appendChild(card);
         });
@@ -53,3 +52,4 @@ document.addEventListener("DOMContentLoaded", function () {
 
     stateSelector.addEventListener("change", displayOfficials);
 });
+
