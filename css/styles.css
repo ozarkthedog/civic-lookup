@@ -24,7 +24,7 @@ nav a:hover {
 }
 
 nav a.current-page {
-  color: #d10062 !important;
+  color: #5d6ff3 !important;
   text-decoration: underline !important;
 }
 
@@ -41,7 +41,7 @@ h2 {
 }
 
 h2 span {
-  color: #d10062;
+  color: #5d6ff3;
   font-weight: bold;
 }
 
@@ -52,14 +52,14 @@ select {
   padding-left: 32px;
   padding-bottom: 18px;
   margin-top: 48px;
-  border: 2px solid #d10062;
+  border: 2px solid #5d6ff3;
   border-radius: 5px;
   cursor: pointer;
   appearance: none;
   -webkit-appearance: none;
   -moz-appearance: none;
   background: white
-    url("data:image/svg+xml;charset=UTF-8,%3Csvg xmlns%3D%22http%3A//www.w3.org/2000/svg%22 width%3D%2216%22 height%3D%2216%22 fill%3D%22%23D10062%22 class%3D%22bi bi-chevron-down%22 viewBox%3D%220 0 16 16%22%3E%3Cpath fill-rule%3D%22evenodd%22 d%3D%22M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z%22/%3E%3C/svg%3E")
+    url("data:image/svg+xml;charset=UTF-8,%3Csvg xmlns%3D%22http%3A//www.w3.org/2000/svg%22 width%3D%2216%22 height%3D%2216%22 fill%3D%22%235D6FF3%22 class%3D%22bi bi-chevron-down%22 viewBox%3D%220 0 16 16%22%3E%3Cpath fill-rule%3D%22evenodd%22 d%3D%22M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z%22/%3E%3C/svg%3E")
     no-repeat right 24px center;
   background-size: 20px;
   width: 60%;
@@ -69,187 +69,200 @@ select {
 
 /* Keeps the custom border color when focused */
 select:focus {
-  border-color: #d10062; /* Keeps the same color when active */
-  box-shadow: 0 0 5px rgba(209, 0, 98, 0.5); /* Adds a subtle glow */
+  border-color: #5d6ff3; /* Keeps the same color when active */
+  box-shadow: 0 0 5px rgba(0, 31, 209, 0.5); /* Adds a subtle glow */
 }
 
-
 .officials-container {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 30px;
-    margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+  margin-top: 100px;
 }
 
 /* Card Styling */
 .official-card {
-    width: 466px;
-    background: #FFFFFF;
-    box-shadow: 0px 4px 8px rgba(171, 190, 209, 0.4);
-    border-radius: 15px;
-    padding: 25px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: left;
-    position: relative;
+  width: 466px;
+  background: #ffffff;
+  box-shadow: 0px 4px 8px rgba(171, 190, 209, 0.4);
+  border-radius: 15px;
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: left;
+  position: relative;
 }
 
 /* Profile & Name Section */
 .official-header {
-    display: flex;
-    align-items: center;
-    width: 100%;
-    margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 10px;
 }
 
 /* Profile Image */
 .official-img {
-    width: 100px;
-    height: 100px;
-    background: #D9D9D9;
-    border-radius: 12px;
-    flex-shrink: 0;
-    margin-right: 15px;
+  width: 100px;
+  height: 100px;
+  background: #d9d9d9;
+  border-radius: 12px;
+  flex-shrink: 0;
+  margin-right: 15px;
 }
 
 /* Name & Title Container */
 .official-info {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 /* Name */
 .official-card h3 {
-    font-family: 'Roboto Flex', sans-serif;
-    font-weight: 600;
-    font-size: 22px;
-    color: #000000;
-    margin: 0;
+  font-family: "Roboto Flex", sans-serif;
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+  margin: 0;
 }
 
 /* Title (U.S. Senator) */
 .official-card p.title {
-    font-family: 'Roboto Flex', sans-serif;
-    font-weight: 400;
-    font-size: 16px;
-    color: #000000;
-    margin: 5px 0;
+  font-family: "Roboto Flex", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+  margin-top: 12px;
+  margin-bottom: 16px;
 }
 
 /* Party Badge */
 .party {
-    display: inline-block;
-    padding: 5px 14px;
-    border-radius: 12px;
-    font-size: 14px;
-    font-weight: 500;
-    align-self: flex-start;
+  display: inline-block;
+  padding: 5px 14px;
+  border-radius: 12px;
+  font-size: 14px;
+  font-weight: 500;
+  align-self: flex-start;
 }
 
 .republican {
-    background: #FFE5E5;
-    color: #C70000;
+  background: #ffe5e5;
+  color: #c70000;
 }
 
 .democrat {
-    background: #E5ECFF;
-    color: #0033CC;
+  background: #e5ecff;
+  color: #0033cc;
 }
 
 /* Office Info */
 .office-info {
-    width: 100%;
-    font-family: 'Roboto Flex', sans-serif;
-    font-size: 16px;
-    text-align: left;
-    margin-bottom: 15px;
+  width: 90%;
+  font-family: "Roboto Flex", sans-serif;
+  font-size: 16px;
+  text-align: left;
+  margin-top: 24px;
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
 }
 
+/* Label & Value Pair */
 .office-info p {
-    display: flex;
-    justify-content: space-between;
-    color: #717171;
-    font-size: 16px;
-    font-weight: 500;
-    margin: 6px 0;
+  display: flex;
+  justify-content: space-between;
+  color: #717171;
+  font-size: 16px;
+  font-weight: normal; /* Remove bold */
+  margin: 0;
 }
 
-.office-info p span {
-    color: #000000;
-    font-weight: 500;
+/* Remove colons */
+.office-info p strong {
+  font-weight: normal;
+  color: #717171; /* Light gray to reduce contrast */
 }
 
 /* Address Formatting */
 .office-info p.address {
-    flex-direction: column;
-    text-align: left;
-    line-height: 1.4;
+  flex-direction: row;
+  text-align: right;
+  line-height: 1.4;
+}
+
+/* Ensure spacing between rows */
+.office-info p span {
+  color: #000000;
+  font-weight: 500;
 }
 
 /* Buttons */
 .website-btn {
-    width: 90%;
-    height: 50px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border: 2px solid #D10062;
-    border-radius: 12px;
-    font-size: 16px;
-    font-weight: 500;
-    color: #D10062;
-    text-decoration: none;
-    margin-top: 10px;
-    transition: all 0.2s ease-in-out;
+  width: 90%;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid #5d6ff3;
+  border-radius: 12px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #5d6ff3;
+  text-decoration: none;
+  margin-top: 12px;
+
+  transition: all 0.2s ease-in-out;
 }
 
 .website-btn:hover {
-    background: #D10062;
-    color: white;
+  background: #5d6ff3;
+  color: white;
 }
 
 /* Call Office Button */
 .call-btn {
-    width: 90%;
-    height: 50px;
-    background: #D10062;
-    color: white;
-    border: none;
-    border-radius: 12px;
-    font-size: 16px;
-    font-weight: 700;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 10px;
-    cursor: pointer;
-    transition: background 0.2s ease-in-out;
+  width: 90%;
+  height: 50px;
+  background: #5d6ff3;
+  color: white;
+  border: none;
+  border-radius: 12px;
+  font-size: 16px;
+  font-weight: 700;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  cursor: pointer;
+  transition: background 0.2s ease-in-out;
 }
 
 .call-btn:hover {
-    background: #B80052;
+  background: #5d6ff3;
 }
 
 /* Social Media Icons */
 .social-icons {
-    display: flex;
-    justify-content: center;
-    gap: 30px;
-    margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 20px;
 }
 
 .social-icons a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 .social-icons img {
-    width: 35px;
-    transition: transform 0.2s ease-in-out;
+  width: 35px;
+  transition: transform 0.2s ease-in-out;
 }
 
 .social-icons img:hover {
-    transform: scale(1.1);
+  transform: scale(1.1);
 }
