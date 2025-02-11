@@ -212,7 +212,8 @@ select:focus {
 .in-office-dates {
   font-size: 1rem;
   color: #333;
-  margin: 12px 0;
+  margin-top: 12px;
+  margin-bottom: 24px;
   line-height: 1.5; /* Ensure proper spacing for the line break */
 }
 
