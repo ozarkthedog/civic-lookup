@@ -30,6 +30,8 @@ nav a {
 nav a:hover,
 nav a.current-page {
   text-decoration: underline;
+  text-decoration-thickness: 3px; /* Adjust thickness */
+  text-underline-offset: 5px; /* Move underline further away */
   font-weight: bold;
   transition: font-weight 0.3s ease;
 }
