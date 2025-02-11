@@ -39,3 +39,35 @@ nav a.current-page {
 nav a.current-page {
   color: #5d6ff3 !important;
 }
+
+.container {
+  display: flex;
+  align-items: flex-start; /* Align items to the top */
+  gap: 120px; /* Space between text and image */
+  padding: 40px;
+  max-width: 1000px; /* Adjust as needed */
+  margin: 0 auto; /* Center the container */
+  margin-top: 48px;
+}
+
+.text-content {
+  flex: 1; /* Take up remaining space */
+  text-align: left; /* Align text to the left */
+  font-size: 1.1rem;
+  line-height: 1.5;
+}
+
+.image-content {
+  flex: 0 0 400px; /* Fixed width for image */
+  margin-top: 32px;
+}
+
+.content-image {
+  width: 100%; /* Responsive image */
+  height: auto; /* Maintain aspect ratio */
+}
+
+.link {
+  color: #5d6ff3;
+}
+
