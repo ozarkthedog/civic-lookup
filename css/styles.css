@@ -30,6 +30,7 @@ nav a {
 nav a:hover,
 nav a.current-page {
   text-decoration: underline;
+  font-weight: bold;
 }
 
 nav a.current-page {
