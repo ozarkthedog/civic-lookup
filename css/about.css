@@ -71,3 +71,23 @@ nav a.current-page {
   color: #5d6ff3;
 }
 
+/* Mobile Styles */
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column; /* Stack items */
+    align-items: center;
+    text-align: center;
+    gap: 20px; /* Reduce space between image and text */
+    padding: 20px; /* Adjust overall padding */
+  }
+
+  .image-content {
+    order: -1; /* Move image above text */
+    margin-bottom: 15px; /* Control space below image */
+  }
+
+  .text-content {
+    text-align: left;
+    width: 90%; /* Keep text from stretching too wide */
+  }
+}
