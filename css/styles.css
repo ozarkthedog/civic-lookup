@@ -31,6 +31,7 @@ nav a:hover,
 nav a.current-page {
   text-decoration: underline;
   font-weight: bold;
+  transition: font-weight 0.3s ease;
 }
 
 nav a.current-page {
