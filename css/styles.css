@@ -96,9 +96,9 @@ select {
     color: #5d6ff3;
     padding: 12px 40px 12px 16px;
     margin: 48px 0;
-    width: 250px !important; /* Forces a strict width */
-    max-width: 280px !important; /* Ensures it doesn't stretch */
-    min-width: 200px !important; /* Keeps a minimum width */
+    width: 250px !important;
+    max-width: 250px !important;
+    min-width: 200px !important;
     -webkit-appearance: none !important;
     -moz-appearance: none !important;
     appearance: none !important;
@@ -112,11 +112,9 @@ select {
     outline: none;
 }
 
-/* Fix for Dropdown List Expansion */
 select:not(:-internal-list-box) {
-    width: 250px !important; /* Ensures dropdown list matches select box */
-    max-width: 280px !important;
-    min-width: 200px !important;
+    width: 250px !important;
+    max-width: 250px !important;
 }
 
 /* Additional Safari-Specific Fix */
