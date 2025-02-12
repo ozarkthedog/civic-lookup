@@ -89,7 +89,7 @@ select {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
-  width: auto; /* Adjust if needed */
+ width: auto !important;
   max-width: 300px; /* Limit width */
   border: 2px solid #5d6ff3;
   border-radius: 6px;
