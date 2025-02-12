@@ -55,7 +55,6 @@ document.addEventListener("DOMContentLoaded", async function () {
     });
   }
 
-  // Helper function to format dates as "Month Day, Year"
   function formatDate(dateString) {
     if (dateString === "Unknown") return dateString;
     const date = new Date(dateString);
@@ -68,7 +67,10 @@ document.addEventListener("DOMContentLoaded", async function () {
 
   async function displayOfficials() {
     const state = stateSelector.value.trim().toUpperCase();
-    if (!state) return;
+    if (!state) {
+      container.style.display = "none"; // Hide container if no state is selected
+      return;
+    }
 
     container.style.display = "block"; // Show container when state is selected
     container.innerHTML = "Loading officials...";
@@ -82,12 +84,11 @@ document.addEventListener("DOMContentLoaded", async function () {
       (official) => official.state === state
     );
 
-    // Sort officials: Senate first, then House by district
     filteredOfficials.sort((a, b) => {
       if (a.chamber === "Senator" && b.chamber !== "Senator") return -1;
       if (b.chamber === "Senator" && a.chamber !== "Senator") return 1;
       if (a.chamber === "Representative" && b.chamber === "Representative") {
-        return a.district - b.district; // Sort House members by district
+        return a.district - b.district;
       }
       return 0;
     });
@@ -103,21 +104,17 @@ document.addEventListener("DOMContentLoaded", async function () {
       const card = document.createElement("div");
       card.classList.add("official-card");
 
-      // Construct the photo URL using the bioguide ID
-      const bioguide = official.id; // bioguide ID is already in the data
+      const bioguide = official.id;
       const photoUrl = `https://bioguide.congress.gov/bioguide/photo/${bioguide[0]}/${bioguide}.jpg`;
 
-      // Conditionally include the District line only for Representatives
       const districtLine =
         official.chamber === "Representative"
           ? `<p class="official-district">District ${official.district}</p>`
           : "";
 
-      // Format the start and end dates
       const startDate = formatDate(official.startDate);
       const endDate = formatDate(official.endDate);
 
-      // Add the photo and other details to the card
       card.innerHTML = `
           <div class="card-content">
               <img src="${photoUrl}" alt="${
@@ -163,7 +160,6 @@ document.addEventListener("DOMContentLoaded", async function () {
       container.appendChild(card);
     });
 
-    // Show the scripts section after cards are displayed
     const scriptsSection = document.getElementById("scripts-section");
     scriptsSection.style.display = "block";
   }
