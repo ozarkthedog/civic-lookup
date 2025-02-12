@@ -94,8 +94,9 @@ select {
     color: #5d6ff3;
     padding: 12px 40px 12px 16px;
     margin: 48px 0;
-    width: 100%; /* Allows it to scale within the container */
-    max-width: 100%; /* Prevents stretching */
+   width: auto !important;
+    max-width: 280px !important;  /* Ensures it doesn't stretch */
+    min-width: 200px;
     -webkit-appearance: none; /* Fixes Safari's full-page behavior */
     -moz-appearance: none;
     appearance: none;
