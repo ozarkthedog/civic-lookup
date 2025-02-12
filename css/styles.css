@@ -86,13 +86,15 @@ select {
   color: #5d6ff3;
   padding: 18px 80px 18px 32px;
   margin: 48px 0;
- width: auto; /* or set a specific width, e.g., 200px */
-    max-width: 100%; /* ensures it doesn't exceed its container */
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  width: auto; /* Adjust if needed */
+  max-width: 300px; /* Limit width */
   border: 2px solid #5d6ff3;
   border-radius: 6px;
   box-shadow: 0px 4px 8px rgba(171, 190, 209, 0.4);
   cursor: pointer;
-  appearance: none;
   background: white
     url("data:image/svg+xml;charset=UTF-8,%3Csvg xmlns%3D%22http%3A//www.w3.org/2000/svg%22 width%3D%2216%22 height%3D%2216%22 fill%3D%22%235D6FF3%22 class%3D%22bi bi-chevron-down%22 viewBox%3D%220 0 16 16%22%3E%3Cpath fill-rule%3D%22evenodd%22 d%3D%22M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z%22/%3E%3C/svg%3E")
     no-repeat right 24px center;
