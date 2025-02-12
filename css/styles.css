@@ -90,7 +90,7 @@ h2 br {
     margin: 0 auto;
 }
 
-/* Select Box - Ensures it doesn't expand */
+/* Ensure the select element doesn't expand */
 select {
     font-size: 1rem;
     color: #5d6ff3;
@@ -110,6 +110,9 @@ select {
         no-repeat right 16px center;
     background-size: 20px;
     outline: none;
+    overflow: hidden; /* Add this to prevent expanding */
+    white-space: nowrap; /* Prevent text wrapping */
+    text-overflow: ellipsis; /* Add ellipsis for overflow text */
 }
 
 select:not(:-internal-list-box) {
