@@ -85,8 +85,8 @@ h2 br {
     display: flex;
     justify-content: center;
     width: 100%;
-    max-width: 320px; /* Prevent it from stretching */
-    margin: 0 auto; /* Centers the dropdown */
+    max-width: 300px;  /* Prevents it from growing too large */
+    margin: 0 auto;
 }
 
 select {
@@ -97,7 +97,8 @@ select {
    width: auto !important;
     max-width: 280px !important;  /* Ensures it doesn't stretch */
     min-width: 200px;
-    -webkit-appearance: none; /* Fixes Safari's full-page behavior */
+     -webkit-appearance: menulist-button !important;
+    appearance: menulist-button !important;
     -moz-appearance: none;
     appearance: none;
     border: 2px solid #5d6ff3;
