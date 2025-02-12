@@ -1,19 +1,7 @@
- document.addEventListener("DOMContentLoaded", function () {
-    const stateSelector = document.getElementById("stateSelector");
-
-    stateSelector.addEventListener("mousedown", function () {
-        this.style.width = "250px"; // Forces width when dropdown is clicked
-    });
-
-    stateSelector.addEventListener("blur", function () {
-        this.style.width = "250px"; // Resets width when focus is lost
-    });
-
-    // Forces the dropdown list itself to remain within width constraints
-    stateSelector.addEventListener("change", function () {
-        this.style.width = "250px";
-    });
-});
+document.addEventListener("DOMContentLoaded", async function () {
+  const stateSelector = document.getElementById("stateSelector");
+  const container = document.getElementById("officialsContainer");
+  container.style.display = "none"; // Hide container initially
 
   const currentLegislatorsURL =
     "https://unitedstates.github.io/congress-legislators/legislators-current.json";
