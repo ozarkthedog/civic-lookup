@@ -81,26 +81,27 @@ h2 br {
   }
 }
 
+/* Dropdown Container - Ensures it doesn’t stretch */
 .dropdown-container {
     display: flex;
     justify-content: center;
     width: 100%;
-    max-width: 300px;  /* Prevents it from growing too large */
+    max-width: 300px; /* Prevents it from growing too large */
     margin: 0 auto;
 }
 
+/* Select Box - Ensures it doesn't expand */
 select {
     font-size: 1rem;
     color: #5d6ff3;
     padding: 12px 40px 12px 16px;
     margin: 48px 0;
-   width: auto !important;
-    max-width: 280px !important;  /* Ensures it doesn't stretch */
-    min-width: 200px;
-     -webkit-appearance: menulist-button !important;
-    appearance: menulist-button !important;
-    -moz-appearance: none;
-    appearance: none;
+    width: 250px !important; /* Forces a strict width */
+    max-width: 280px !important; /* Ensures it doesn't stretch */
+    min-width: 200px !important; /* Keeps a minimum width */
+    -webkit-appearance: none !important;
+    -moz-appearance: none !important;
+    appearance: none !important;
     border: 2px solid #5d6ff3;
     border-radius: 6px;
     box-shadow: 0px 4px 8px rgba(171, 190, 209, 0.4);
@@ -110,6 +111,21 @@ select {
     background-size: 20px;
     outline: none;
 }
+
+/* Fix for Dropdown List Expansion */
+select:not(:-internal-list-box) {
+    width: 250px !important; /* Ensures dropdown list matches select box */
+    max-width: 280px !important;
+    min-width: 200px !important;
+}
+
+/* Additional Safari-Specific Fix */
+@supports (-webkit-touch-callout: none) {
+    select {
+        -webkit-appearance: menulist-button !important; /* Forces normal dropdown behavior */
+    }
+}
+
 
 select:focus {
     border-color: #5d6ff3;
