@@ -13,6 +13,25 @@
     <link rel="stylesheet" href="css/styles.css"> <!-- Link to external CSS -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script> <!-- CSV Parser -->
 </head>
+
+      document.addEventListener("DOMContentLoaded", function () {
+    const stateSelector = document.getElementById("stateSelector");
+
+    stateSelector.addEventListener("mousedown", function () {
+        this.style.width = "250px"; // Forces width when dropdown is clicked
+    });
+
+    stateSelector.addEventListener("blur", function () {
+        this.style.width = "250px"; // Resets width when focus is lost
+    });
+
+    // Forces the dropdown list itself to remain within width constraints
+    stateSelector.addEventListener("change", function () {
+        this.style.width = "250px";
+    });
+});
+
+      
 <body>
 
     <nav>
